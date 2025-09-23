@@ -93,7 +93,7 @@ const renderCollection = async () => {
         const isRepeated = cardCount > 1;
 
         cardItem.innerHTML = `
-            <img src="data/cards/images/${cardId}.jpg" alt="Carta ${cardId}">
+            <a href="data/cards/images/${cardId}.jpg" data-lightbox="example-set"><img src="data/cards/images/${cardId}.jpg" alt="Carta ${cardId}"></a>
             ${cardData.valor !== undefined ? `<span class="card-value">${cardData.valor} ⭐</span>` : ''}
             ${isRepeated ? `<span class="repeat-count">x${cardCount}</span>` : ''}
             <button class="sell-button" onclick="sellCard('${cardId}')">Vender</button>
