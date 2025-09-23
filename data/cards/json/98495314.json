@@ -1,0 +1,13 @@
+{
+    "id": "98495314",
+    "name": "Sword of Deep-Seated",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The equipped monster gains 500 ATK/DEF. If this card is sent to your GY: Place it on top of your Deck."
+}

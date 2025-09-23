@@ -1,0 +1,298 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.game-container {
+    width: 90%;
+    max-width: 1200px;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.game-title {
+    color: #4CAF50;
+    text-shadow: 2px 2px 4px #000;
+}
+
+.user-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2em;
+    padding: 10px;
+    background-color: #3a3a3a;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.main-menu {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.main-menu button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.main-menu button:hover {
+    background-color: #45a049;
+}
+
+.test-buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.test-buttons button {
+    background-color: #3f51b5;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color 0.3s;
+}
+
+.test-buttons button:hover {
+    background-color: #30419c;
+}
+
+#game-screen {
+    background-color: #333;
+    border-radius: 5px;
+    padding: 20px;
+    min-height: 500px;
+}
+
+/* Estilos para la tienda */
+.shop-view {
+    display: none;
+    text-align: center;
+}
+
+.shop-packs {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.pack-card {
+    background-color: #444;
+    border: 2px solid #555;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pack-card .pack-image {
+	width: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+.pack-card button {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.pack-card button:hover {
+    background-color: #1e87e7;
+}
+
+/* Estilos para el álbum */
+.collection-view {
+    display: none;
+    text-align: center;
+}
+
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.card-item {
+    background-color: #444;
+    border: 1px solid #555;
+    border-radius: 8px;
+    padding: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    width: 90px;
+}
+
+.card-item img {
+    width: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+.card-item .repeat-count {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: #f44336;
+    color: white;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.card-value {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: #3f51b5;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 6px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+/* Estilos para el botón de venta */
+.sell-button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.sell-button:hover {
+    background-color: #45a049;
+}
+
+/* Estilos del modal de confirmación */
+.modal-container {
+    display: none; /* Oculto por defecto */
+    position: fixed; 
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-container.show {
+    display: flex; /* Mostrar cuando se le agregue la clase 'show' */
+}
+
+.modal-content {
+    background-color: #333;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    width: 90%;
+    max-width: 400px;
+    max-height: 500px;
+}
+
+.modal-content p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.modal-buttons button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+#confirm-yes-btn {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+}
+
+#confirm-yes-btn:hover {
+    background-color: #45a049;
+}
+
+#confirm-no-btn {
+    background-color: #f44336; /* Rojo */
+    color: white;
+}
+
+#confirm-no-btn:hover {
+    background-color: #da190b;
+}
+
+/* Estilos del botón de OK en el nuevo modal */
+.modal-ok-btn {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.modal-ok-btn:hover {
+    background-color: #45a049;
+}

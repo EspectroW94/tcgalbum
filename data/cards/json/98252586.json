@@ -1,0 +1,13 @@
+{
+    "id": "98252586",
+    "name": "Follow Wind",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase the ATK and DEF of a Winged Beast-Type monster equipped with this card by 300 points."
+}

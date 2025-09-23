@@ -1,0 +1,13 @@
+{
+    "id": "98818516",
+    "name": "Frenzied Panda",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1000,
+    "valor": 2.9,
+    "description": "A savage beast that carries a big bamboo stick for beating down its enemies."
+}

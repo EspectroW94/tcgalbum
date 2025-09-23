@@ -1,0 +1,13 @@
+{
+    "id": "98456117",
+    "name": "Boneheimer",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 850,
+    "defense": 400,
+    "valor": 1.85,
+    "description": "This monster wanders the seas, sucking dry any creatures it may encounter."
+}

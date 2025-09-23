@@ -1,0 +1,13 @@
+{
+    "id": "97923414",
+    "name": "Inpachi",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1900,
+    "valor": 4.2,
+    "description": "A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "9817927",
+    "name": "Gyaku-Gire Panda",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 800,
+    "defense": 1600,
+    "valor": 3.0,
+    "description": "Increase the ATK of this card by 500 points for each monster on your opponent's side of the field. When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points."
+}

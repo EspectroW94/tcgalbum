@@ -1,0 +1,13 @@
+{
+    "id": "99724761",
+    "name": "XZ-Tank Cannon",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 6,
+    "attack": 2400,
+    "defense": 2100,
+    "valor": 5.4,
+    "description": "\"X-Head Cannon\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down Spell/Trap Card your opponent controls; destroy that target."
+}

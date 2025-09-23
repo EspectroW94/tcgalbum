@@ -1,0 +1,13 @@
+{
+    "id": "98069388",
+    "name": "Horn of Heaven",
+    "type": "Trap Card",
+    "sub-type": "Counter",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s)."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "98299011",
+    "name": "Gift of The Mystical Elf",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Increase your Life Points by 300 points for each monster on the field."
+}

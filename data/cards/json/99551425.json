@@ -1,0 +1,13 @@
+{
+    "id": "99551425",
+    "name": "Labyrinth Tank",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2400,
+    "defense": 2400,
+    "valor": 5.8,
+    "description": "\"Giga-Tech Wolf\" + \"Cannon Soldier\""
+}

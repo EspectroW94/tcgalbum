@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Cartas de Yugioh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1 class="game-title">Coleccionista de Cartas</h1>
+            <div class="user-info">
+                <span id="star-count">Estrellas: 100 ⭐</span>
+                <span id="card-count">Cartas: 0 / 100</span>
+            </div>
+            <nav class="main-menu">
+                <button id="show-collection-btn">Colección</button>
+                <button id="show-shop-btn">Tienda</button>
+            </nav>
+            <div class="test-buttons">
+                <button id="add-stars-btn">Añadir 100 Estrellas</button>
+                <button id="reset-game-btn">Reiniciar Juego</button>
+            </div>
+        </header>
+
+		<main id="game-screen">
+			<div id="shop-view" class="shop-view">
+			</div>
+			<div id="collection-view" class="collection-view">
+			</div>
+		</main>
+
+    </div>
+
+    <div id="confirm-modal" class="modal-container">
+        <div class="modal-content">
+            <p id="confirm-message"></p>
+            <div class="modal-buttons">
+                <button id="confirm-yes-btn">Sí</button>
+                <button id="confirm-no-btn">No</button>
+            </div>
+        </div>
+    </div>
+    
+    <div id="open-pack-modal" class="modal-container">
+        <div class="modal-content">
+            <h3>¡Has abierto un paquete!</h3>
+            <div id="open-pack-card-grid" class="card-grid">
+                </div>
+            <button id="open-pack-ok-btn" class="modal-ok-btn">OK</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

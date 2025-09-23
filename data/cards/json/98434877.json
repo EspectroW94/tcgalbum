@@ -1,0 +1,13 @@
+{
+    "id": "98434877",
+    "name": "Suijin",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 7,
+    "attack": 2500,
+    "defense": 2400,
+    "valor": 5.9,
+    "description": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field."
+}

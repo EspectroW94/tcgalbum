@@ -1,0 +1,13 @@
+{
+    "id": "98139712",
+    "name": "Skull Invitation",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent."
+}

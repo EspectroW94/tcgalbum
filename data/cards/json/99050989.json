@@ -1,0 +1,13 @@
+{
+    "id": "99050989",
+    "name": "Drillago",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1100,
+    "valor": 3.4,
+    "description": "If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly."
+}
