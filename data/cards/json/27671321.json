@@ -1,0 +1,13 @@
+{
+    "id": "27671321",
+    "name": "Lightning Conger",
+    "type": "Normal Monster",
+    "sub-type": "Thunder",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 350,
+    "defense": 750,
+    "valor": 1.7,
+    "description": "This massive eel generates huge charges of electricity and unleashes them as thunderbolts."
+}

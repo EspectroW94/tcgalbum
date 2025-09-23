@@ -1,0 +1,13 @@
+{
+    "id": "56647086",
+    "name": "Invader of Darkness",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 8,
+    "attack": 2900,
+    "defense": 2500,
+    "valor": 6.5,
+    "description": "Your opponent cannot activate Quick-Play Spell Cards."
+}

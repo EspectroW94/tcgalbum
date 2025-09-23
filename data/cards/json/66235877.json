@@ -1,0 +1,13 @@
+{
+    "id": "66235877",
+    "name": "Fiend Skull Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Dragon",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 5,
+    "attack": 2000,
+    "defense": 1200,
+    "valor": 4.0,
+    "description": "\"Cave Dragon\" + \"Lesser Fiend\"\r\n(This card is always treated as an \"Archfiend\" card.)\r\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. Negate the effects of Flip Effect Monsters. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap Card."
+}

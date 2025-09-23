@@ -1,0 +1,13 @@
+{
+    "id": "36039163",
+    "name": "Penguin Knight",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 900,
+    "defense": 800,
+    "valor": 2.3,
+    "description": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck."
+}

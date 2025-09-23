@@ -1,0 +1,13 @@
+{
+    "id": "77827521",
+    "name": "Trial of Nightmare",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1300,
+    "defense": 900,
+    "valor": 2.9,
+    "description": "This fiend passes judgment on enemies that are locked in coffins."
+}

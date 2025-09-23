@@ -1,0 +1,13 @@
+{
+    "id": "69196160",
+    "name": "Thunder Crash",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Destroy all monsters you control, and if you do, inflict 300 damage to your opponent for each monster destroyed."
+}

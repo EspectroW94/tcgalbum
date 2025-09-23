@@ -1,0 +1,13 @@
+{
+    "id": "5257687",
+    "name": "Jowls of Dark Demise",
+    "type": "Flip Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 2,
+    "attack": 200,
+    "defense": 100,
+    "valor": 0.8,
+    "description": "FLIP: Take control of 1 monster on your opponent's side of the field until the end of the turn that this card's effect is activated. When the controlled monster attacks, it can attack your opponent's Life Points directly."
+}

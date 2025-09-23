@@ -1,0 +1,13 @@
+{
+    "id": "39004808",
+    "name": "Root Water",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 900,
+    "defense": 800,
+    "valor": 2.3,
+    "description": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters."
+}

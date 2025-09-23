@@ -1,0 +1,13 @@
+{
+    "id": "15401633",
+    "name": "Kagemusha of the Blue Flame",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 800,
+    "defense": 400,
+    "valor": 1.7,
+    "description": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade."
+}

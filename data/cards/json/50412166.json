@@ -1,0 +1,13 @@
+{
+    "id": "50412166",
+    "name": "Charm of Shabti",
+    "type": "Effect Monster",
+    "sub-type": "Rock",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 1,
+    "attack": 100,
+    "defense": 100,
+    "valor": 0.6,
+    "description": "During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle."
+}

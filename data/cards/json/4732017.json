@@ -1,0 +1,13 @@
+{
+    "id": "4732017",
+    "name": "Molten Zombie",
+    "type": "Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1600,
+    "defense": 400,
+    "valor": 2.7,
+    "description": "When this card is Special Summoned from the Graveyard: Draw 1 card."
+}

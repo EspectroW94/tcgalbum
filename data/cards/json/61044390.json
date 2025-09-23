@@ -1,0 +1,13 @@
+{
+    "id": "61044390",
+    "name": "Chaos End",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "You can only activate this card if 7 or more of your cards are currently removed from play. Destroy all Monster Cards on the field."
+}

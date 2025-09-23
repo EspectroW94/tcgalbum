@@ -1,0 +1,13 @@
+{
+    "id": "85639257",
+    "name": "Aqua Madoor",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1200,
+    "defense": 2000,
+    "valor": 3.9,
+    "description": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him."
+}

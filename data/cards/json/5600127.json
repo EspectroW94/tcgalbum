@@ -1,0 +1,13 @@
+{
+    "id": "5600127",
+    "name": "Humanoid Worm Drake",
+    "type": "Fusion Monster",
+    "sub-type": "Aqua",
+    "card": "fusion",
+    "attribute": "WATER",
+    "level": 7,
+    "attack": 2200,
+    "defense": 2000,
+    "valor": 5.2,
+    "description": "\"Worm Drake\" + \"Humanoid Slime\""
+}

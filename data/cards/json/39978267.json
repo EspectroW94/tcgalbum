@@ -1,0 +1,13 @@
+{
+    "id": "39978267",
+    "name": "Cyber Raider",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1000,
+    "valor": 3.1,
+    "description": "If this card is Summoned: Activate 1 of these effects.\r\n● Target 1 Equip Card on the field; destroy that target.\r\n● Target 1 Equip Card on the field; equip that target to this card."
+}

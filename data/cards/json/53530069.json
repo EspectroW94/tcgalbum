@@ -1,0 +1,13 @@
+{
+    "id": "53530069",
+    "name": "Spirit of the Breeze",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 0,
+    "defense": 1800,
+    "valor": 2.4,
+    "description": "As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "7089711",
+    "name": "Hane-Hane",
+    "type": "Flip Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 450,
+    "defense": 500,
+    "valor": 1.45,
+    "description": "FLIP: Select 1 monster on the field and return it to its owner's hand."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "49888191",
+    "name": "Garnecia Elefantis",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2400,
+    "defense": 2000,
+    "valor": 5.4,
+    "description": "A monster so heavy that each step rocks the earth."
+}

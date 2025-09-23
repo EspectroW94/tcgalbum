@@ -1,0 +1,13 @@
+{
+    "id": "96420087",
+    "name": "Contract with the Dark Master",
+    "type": "Spell Card",
+    "sub-type": "Ritual",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card is used to Ritual Summon \"Dark Master - Zorc\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more."
+}

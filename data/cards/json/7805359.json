@@ -1,0 +1,13 @@
+{
+    "id": "7805359",
+    "name": "Niwatori",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 800,
+    "valor": 2.3,
+    "description": "Swallows enemies whole and uses their essence as energy."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "43500484",
+    "name": "Darkworld Thorns",
+    "type": "Normal Monster",
+    "sub-type": "Plant",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1200,
+    "defense": 900,
+    "valor": 2.7,
+    "description": "A thorny plant found in the darklands that wraps itself around any unwary traveler."
+}

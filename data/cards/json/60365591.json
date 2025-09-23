@@ -1,0 +1,13 @@
+{
+    "id": "60365591",
+    "name": "Shinato's Ark",
+    "type": "Spell Card",
+    "sub-type": "Ritual",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card is used to Ritual Summon \"Shinato, King of a Higher Plane\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand."
+}

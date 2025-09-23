@@ -1,0 +1,13 @@
+{
+    "id": "12883044",
+    "name": "Flame Dancer",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 2,
+    "attack": 550,
+    "defense": 450,
+    "valor": 1.5,
+    "description": "This monster moves while swinging its burning rope."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "31829185",
+    "name": "Dark Necrofear",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 8,
+    "attack": 2200,
+    "defense": 2800,
+    "valor": 6.1,
+    "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster."
+}

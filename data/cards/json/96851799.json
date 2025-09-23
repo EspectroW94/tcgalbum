@@ -1,0 +1,13 @@
+{
+    "id": "96851799",
+    "name": "Hinotama Soul",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 2,
+    "attack": 600,
+    "defense": 500,
+    "valor": 1.6,
+    "description": "An intensely hot flame creature that rams anything standing in its way."
+}

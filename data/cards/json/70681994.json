@@ -1,0 +1,13 @@
+{
+    "id": "70681994",
+    "name": "Dragoness the Wicked Knight",
+    "type": "Fusion Monster",
+    "sub-type": "Warrior",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1200,
+    "defense": 900,
+    "valor": 2.7,
+    "description": "\"Armaill\" + \"One-Eyed Shield Dragon\""
+}

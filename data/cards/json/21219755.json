@@ -1,0 +1,13 @@
+{
+    "id": "21219755",
+    "name": "Destruction Ring",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Destroy 1 face-up monster on your side of the field to inflict 1000 points of damage to both players' Life Points."
+}

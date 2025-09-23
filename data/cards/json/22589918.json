@@ -1,0 +1,13 @@
+{
+    "id": "22589918",
+    "name": "Reload",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck."
+}

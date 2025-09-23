@@ -1,0 +1,13 @@
+{
+    "id": "74703140",
+    "name": "Punished Eagle",
+    "type": "Fusion Monster",
+    "sub-type": "Winged Beast",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 6,
+    "attack": 2100,
+    "defense": 1800,
+    "valor": 4.8,
+    "description": "\"Blue-Winged Crown\" + \"Niwatori\""
+}

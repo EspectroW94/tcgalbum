@@ -1,0 +1,13 @@
+{
+    "id": "83887306",
+    "name": "Two-Pronged Attack",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Select and destroy 2 of your monsters and 1 of your opponent's monsters."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2118022",
+    "name": "Hyosube",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1500,
+    "defense": 900,
+    "valor": 3.1,
+    "description": "This amphibian is strong on the attack, but leaves much to be desired when defending."
+}

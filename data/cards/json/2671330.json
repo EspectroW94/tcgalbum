@@ -1,0 +1,13 @@
+{
+    "id": "2671330",
+    "name": "Hyper Hammerhead",
+    "type": "Effect Monster",
+    "sub-type": "Dinosaur",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "At the end of the Damage Step, if an opponent's monster that battled this card is not destroyed: Return that opponent's monster to the hand."
+}

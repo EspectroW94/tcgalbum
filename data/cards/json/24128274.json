@@ -1,0 +1,13 @@
+{
+    "id": "24128274",
+    "name": "Deepsea Warrior",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1800,
+    "valor": 4.2,
+    "description": "As long as \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards."
+}

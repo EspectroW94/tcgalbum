@@ -1,0 +1,13 @@
+{
+    "id": "75953262",
+    "name": "Warrior Dai Grepher",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1600,
+    "valor": 4.0,
+    "description": "The warrior who can manipulate dragons. Nobody knows his mysterious past."
+}

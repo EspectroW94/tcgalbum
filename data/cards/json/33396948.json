@@ -1,0 +1,13 @@
+{
+    "id": "33396948",
+    "name": "Exodia the Forbidden One",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "45141844",
+    "name": "Old Vindictive Magician",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 450,
+    "defense": 600,
+    "valor": 1.55,
+    "description": "FLIP: Target 1 monster your opponent controls; destroy that target."
+}

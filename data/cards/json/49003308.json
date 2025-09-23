@@ -1,0 +1,13 @@
+{
+    "id": "49003308",
+    "name": "Gagagigo",
+    "type": "Normal Monster",
+    "sub-type": "Reptile",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1850,
+    "defense": 1000,
+    "valor": 3.55,
+    "description": "This young evildoer used to have an evil heart, but by meeting a special person, he discovered justice."
+}

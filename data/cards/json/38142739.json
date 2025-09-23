@@ -1,0 +1,13 @@
+{
+    "id": "38142739",
+    "name": "Petit Angel",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 600,
+    "defense": 900,
+    "valor": 2.1,
+    "description": "A quick-moving and tiny fairy that's very difficult to hit."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "4614116",
+    "name": "Dark Energy",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points."
+}

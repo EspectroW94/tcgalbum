@@ -1,0 +1,13 @@
+{
+    "id": "43711255",
+    "name": "Prohibition",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards)."
+}

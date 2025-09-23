@@ -1,0 +1,13 @@
+{
+    "id": "50930991",
+    "name": "Neo the Magic Swordsman",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1000,
+    "valor": 3.4,
+    "description": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master."
+}

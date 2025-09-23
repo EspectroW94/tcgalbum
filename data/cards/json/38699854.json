@@ -1,0 +1,13 @@
+{
+    "id": "38699854",
+    "name": "Book of Taiyou",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Flip 1 face-down monster on the field into face-up Attack Position."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "39111158",
+    "name": "Tri-Horned Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 8,
+    "attack": 2850,
+    "defense": 2350,
+    "valor": 6.3,
+    "description": "An unworthy dragon with three sharp horns sprouting from its head."
+}

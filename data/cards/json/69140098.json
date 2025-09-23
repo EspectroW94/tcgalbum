@@ -1,0 +1,13 @@
+{
+    "id": "69140098",
+    "name": "Gemini Elf",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1900,
+    "defense": 900,
+    "valor": 3.5,
+    "description": "Elf twins that alternate their attacks."
+}

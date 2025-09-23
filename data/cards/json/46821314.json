@@ -1,0 +1,13 @@
+{
+    "id": "46821314",
+    "name": "Humanoid Slime",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 800,
+    "defense": 2000,
+    "valor": 3.5,
+    "description": "This slime apparently has some human genes in its genetic makeup."
+}

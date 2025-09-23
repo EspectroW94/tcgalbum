@@ -1,0 +1,13 @@
+{
+    "id": "28106077",
+    "name": "Cestus of Dagla",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Equip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted."
+}

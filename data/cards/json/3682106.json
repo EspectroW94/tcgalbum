@@ -1,0 +1,13 @@
+{
+    "id": "3682106",
+    "name": "Double Snare",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Destroy 1 face-up card on the field that has an effect that negates Trap Cards' effects."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "1434352",
+    "name": "Chaos Necromancer",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 1,
+    "attack": 0,
+    "defense": 0,
+    "valor": 0.4,
+    "description": "The ATK of this card is the number of Monster Cards in your Graveyard x 300."
+}

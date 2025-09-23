@@ -1,0 +1,13 @@
+{
+    "id": "7019529",
+    "name": "Insect Soldiers of the Sky",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1000,
+    "defense": 800,
+    "valor": 2.4,
+    "description": "If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only."
+}

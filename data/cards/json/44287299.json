@@ -1,0 +1,13 @@
+{
+    "id": "44287299",
+    "name": "Masaki the Legendary Swordsman",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1100,
+    "defense": 1100,
+    "valor": 2.9,
+    "description": "Legendary swordmaster Masaki is a veteran of over 100 battles."
+}

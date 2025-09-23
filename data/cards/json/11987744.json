@@ -1,0 +1,13 @@
+{
+    "id": "11987744",
+    "name": "Nin-Ken Dog",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1000,
+    "valor": 3.5,
+    "description": "A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being."
+}

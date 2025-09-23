@@ -1,0 +1,13 @@
+{
+    "id": "78243409",
+    "name": "The Thing in the Crater",
+    "type": "Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1200,
+    "valor": 2.9,
+    "description": "When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 Pyro-Type Monster from your hand."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "73079365",
+    "name": "Gust",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can activate this card when 1 or more of your Spell Cards are destroyed and sent from the field to the Graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap Card on the field."
+}

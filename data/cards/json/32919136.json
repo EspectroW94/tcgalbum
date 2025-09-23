@@ -1,0 +1,13 @@
+{
+    "id": "32919136",
+    "name": "Falling Down",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an \"Archfiend\" card. During each of your opponent's Standby Phases: You take 800 damage."
+}

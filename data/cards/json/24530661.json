@@ -1,0 +1,13 @@
+{
+    "id": "24530661",
+    "name": "Master Kyonshee",
+    "type": "Normal Monster",
+    "sub-type": "Zombie",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1750,
+    "defense": 1000,
+    "valor": 3.45,
+    "description": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts."
+}

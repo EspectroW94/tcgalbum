@@ -1,0 +1,13 @@
+{
+    "id": "10189126",
+    "name": "Masked Sorcerer",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 900,
+    "defense": 1400,
+    "valor": 3.0,
+    "description": "When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck."
+}

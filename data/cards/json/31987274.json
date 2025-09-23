@@ -1,0 +1,13 @@
+{
+    "id": "31987274",
+    "name": "Flying Fish",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 800,
+    "defense": 500,
+    "valor": 2.0,
+    "description": "Three wishes are granted to those fortunate enough to see this monster in flight."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "92731455",
+    "name": "M-Warrior #2",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 500,
+    "defense": 1000,
+    "valor": 2.1,
+    "description": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor."
+}

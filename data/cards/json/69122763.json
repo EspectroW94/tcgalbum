@@ -1,0 +1,13 @@
+{
+    "id": "69122763",
+    "name": "Deal of Phantom",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Select 1 face-up monster on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monsters is applied when this card is activated."
+}

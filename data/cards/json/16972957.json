@@ -1,0 +1,13 @@
+{
+    "id": "16972957",
+    "name": "Doma The Angel of Silence",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1400,
+    "valor": 3.8,
+    "description": "This fairy rules over the end of existence."
+}

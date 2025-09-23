@@ -1,0 +1,13 @@
+{
+    "id": "47480070",
+    "name": "Amazoness Paladin",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1700,
+    "defense": 300,
+    "valor": 2.7,
+    "description": "This card gains 100 ATK for each \"Amazoness\" monster you control."
+}

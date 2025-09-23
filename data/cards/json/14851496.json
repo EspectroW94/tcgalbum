@@ -1,0 +1,13 @@
+{
+    "id": "14851496",
+    "name": "Jellyfish",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1500,
+    "valor": 3.4,
+    "description": "An almost invisible, semi-transparent jellyfish that drifts in the sea."
+}

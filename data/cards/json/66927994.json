@@ -1,0 +1,13 @@
+{
+    "id": "66927994",
+    "name": "Oni Tank T-34",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1700,
+    "valor": 3.8,
+    "description": "An armored tank possessed by a fiend that will pursue enemies until they're crushed."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "5265750",
+    "name": "Skull Mariner",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1600,
+    "defense": 900,
+    "valor": 3.2,
+    "description": "A pirate ship that appears out of the mist and sinks any seagoing vessels."
+}

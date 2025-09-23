@@ -1,0 +1,13 @@
+{
+    "id": "41396436",
+    "name": "Blue-Winged Crown",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1200,
+    "valor": 3.5,
+    "description": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight."
+}

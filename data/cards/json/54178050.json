@@ -1,0 +1,13 @@
+{
+    "id": "54178050",
+    "name": "Dragon's Rage",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster."
+}

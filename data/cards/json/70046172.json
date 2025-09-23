@@ -1,0 +1,13 @@
+{
+    "id": "70046172",
+    "name": "Rush Recklessly",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn."
+}

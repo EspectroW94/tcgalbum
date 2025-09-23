@@ -1,0 +1,13 @@
+{
+    "id": "83746708",
+    "name": "Mage Power",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control."
+}

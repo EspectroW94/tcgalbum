@@ -1,0 +1,13 @@
+{
+    "id": "31786629",
+    "name": "Thunder Dragon",
+    "type": "Effect Monster",
+    "sub-type": "Thunder",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1500,
+    "valor": 3.9,
+    "description": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand."
+}

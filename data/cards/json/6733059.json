@@ -1,0 +1,13 @@
+{
+    "id": "6733059",
+    "name": "Skull Lair",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Remove from play any number of Monster Cards in your Graveyard to destroy 1 face-up monster on the field whose Level is equal to the number of the cards you removed from play."
+}

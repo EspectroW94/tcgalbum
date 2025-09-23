@@ -1,0 +1,13 @@
+{
+    "id": "12472242",
+    "name": "Leghul",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 1,
+    "attack": 300,
+    "defense": 350,
+    "valor": 1.05,
+    "description": "This monster may attack your opponent's Life Points directly."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "93220472",
+    "name": "Cave Dragon",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 2000,
+    "defense": 100,
+    "valor": 2.8,
+    "description": "Cannot be Normal Summoned while you control a monster. This card cannot declare an attack unless you control another Dragon-Type monster."
+}

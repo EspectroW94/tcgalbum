@@ -1,0 +1,13 @@
+{
+    "id": "9159938",
+    "name": "Dark Gray",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 800,
+    "defense": 900,
+    "valor": 2.3,
+    "description": "Entirely gray, this beast has rarely been seen by mortal eyes."
+}

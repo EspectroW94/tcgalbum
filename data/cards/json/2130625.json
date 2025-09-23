@@ -1,0 +1,13 @@
+{
+    "id": "2130625",
+    "name": "Numinous Healer",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when you take damage to your Life Points. Increase your Life Points by 1000 points. Also, increase your Life Points by 500 points for each \"Numinous Healer\" card in your Graveyard."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2134346",
+    "name": "Asura Priest",
+    "type": "Spirit Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1200,
+    "valor": 3.6,
+    "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each."
+}

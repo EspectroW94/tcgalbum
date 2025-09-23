@@ -1,0 +1,13 @@
+{
+    "id": "85936485",
+    "name": "United Resistance",
+    "type": "Normal Monster",
+    "sub-type": "Thunder",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1000,
+    "defense": 400,
+    "valor": 2.0,
+    "description": "The people that gather to swear to fight their oppressors. A revolution is coming."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "42071342",
+    "name": "Sea Serpent Warrior of Darkness",
+    "type": "Normal Monster",
+    "sub-type": "Sea Serpent",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1500,
+    "valor": 4.0,
+    "description": "A warrior who defends the world of the Sea of Darkness. He prides himself on his fighting prowess both on the ground and, of course, in the water."
+}

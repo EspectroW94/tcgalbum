@@ -1,0 +1,13 @@
+{
+    "id": "4031928",
+    "name": "Change of Heart",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Target 1 monster your opponent controls; take control of it until the End Phase."
+}

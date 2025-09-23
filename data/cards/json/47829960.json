@@ -1,0 +1,13 @@
+{
+    "id": "47829960",
+    "name": "Chaosrider Gustaph",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1500,
+    "valor": 3.6,
+    "description": "Once per turn, you can remove from play up to 2 Spell Cards from your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent's next turn."
+}

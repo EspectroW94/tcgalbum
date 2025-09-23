@@ -1,0 +1,13 @@
+{
+    "id": "21417692",
+    "name": "Dark Elf",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 2000,
+    "defense": 800,
+    "valor": 3.5,
+    "description": "This card requires a cost of 1000 of your own Life Points to attack."
+}

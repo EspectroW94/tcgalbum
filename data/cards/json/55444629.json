@@ -1,0 +1,13 @@
+{
+    "id": "55444629",
+    "name": "Lesser Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1000,
+    "valor": 2.9,
+    "description": "A minor dragon incapable of breathing fire."
+}

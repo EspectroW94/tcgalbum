@@ -1,0 +1,13 @@
+{
+    "id": "31477025",
+    "name": "Mr. Volcano",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 5,
+    "attack": 2100,
+    "defense": 1300,
+    "valor": 4.2,
+    "description": "This seemingly mild-mannered creature has an extremely volatile temper."
+}

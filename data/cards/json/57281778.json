@@ -1,0 +1,13 @@
+{
+    "id": "57281778",
+    "name": "Ryu Kokki",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 2400,
+    "defense": 2000,
+    "valor": 5.3,
+    "description": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster."
+}

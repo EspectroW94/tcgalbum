@@ -1,0 +1,13 @@
+{
+    "id": "2863439",
+    "name": "Fiend Reflection #2",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1100,
+    "defense": 1400,
+    "valor": 3.2,
+    "description": "A bird-beast that summons reinforcements with a hand mirror."
+}

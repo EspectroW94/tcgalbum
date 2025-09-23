@@ -1,0 +1,13 @@
+{
+    "id": "40659562",
+    "name": "Guardian Sphinx",
+    "type": "Effect Monster",
+    "sub-type": "Rock",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1700,
+    "defense": 2400,
+    "valor": 4.9,
+    "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand."
+}

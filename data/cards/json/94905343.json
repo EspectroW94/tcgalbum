@@ -1,0 +1,13 @@
+{
+    "id": "94905343",
+    "name": "Rabid Horseman",
+    "type": "Fusion Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 6,
+    "attack": 2000,
+    "defense": 1700,
+    "valor": 4.6,
+    "description": "\"Battle Ox\" + \"Mystic Horseman\""
+}

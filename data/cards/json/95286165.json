@@ -1,0 +1,13 @@
+{
+    "id": "95286165",
+    "name": "De-Fusion",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them."
+}

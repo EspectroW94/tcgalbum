@@ -1,0 +1,13 @@
+{
+    "id": "35316708",
+    "name": "Time Seal",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Skip the Draw Phase of your opponent's next turn."
+}

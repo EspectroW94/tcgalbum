@@ -1,0 +1,13 @@
+{
+    "id": "21297224",
+    "name": "Hysteric Fairy",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1800,
+    "defense": 500,
+    "valor": 3.0,
+    "description": "Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points."
+}

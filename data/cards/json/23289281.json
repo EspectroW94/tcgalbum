@@ -1,0 +1,13 @@
+{
+    "id": "23289281",
+    "name": "Karate Man",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase."
+}

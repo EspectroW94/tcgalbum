@@ -1,0 +1,13 @@
+{
+    "id": "90337190",
+    "name": "Torpedo Fish",
+    "type": "Effect Monster",
+    "sub-type": "Fish",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards."
+}

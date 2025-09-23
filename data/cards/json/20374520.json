@@ -1,0 +1,13 @@
+{
+    "id": "20374520",
+    "name": "Begone, Knave!",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "If a monster inflicts battle damage to a player: Return that monster to the hand."
+}

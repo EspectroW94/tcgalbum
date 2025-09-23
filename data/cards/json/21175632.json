@@ -1,0 +1,13 @@
+{
+    "id": "21175632",
+    "name": "St. Joan",
+    "type": "Fusion Monster",
+    "sub-type": "Fairy",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 7,
+    "attack": 2800,
+    "defense": 2000,
+    "valor": 5.8,
+    "description": "\"The Forgiving Maiden\" + \"Darklord Marie\""
+}

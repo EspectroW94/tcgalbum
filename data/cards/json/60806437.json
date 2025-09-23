@@ -1,0 +1,13 @@
+{
+    "id": "60806437",
+    "name": "UFO Turtle",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1200,
+    "valor": 3.3,
+    "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position."
+}

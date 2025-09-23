@@ -1,0 +1,13 @@
+{
+    "id": "77585513",
+    "name": "Jinzo",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 2400,
+    "defense": 1500,
+    "valor": 4.8,
+    "description": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field."
+}

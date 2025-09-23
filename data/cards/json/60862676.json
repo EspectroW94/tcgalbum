@@ -1,0 +1,13 @@
+{
+    "id": "60862676",
+    "name": "Flame Cerebrus",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 6,
+    "attack": 2100,
+    "defense": 1800,
+    "valor": 4.8,
+    "description": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "74637266",
+    "name": "Octoberser",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1400,
+    "valor": 3.8,
+    "description": "With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears."
+}

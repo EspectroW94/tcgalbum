@@ -1,0 +1,13 @@
+{
+    "id": "90790253",
+    "name": "Little-Winguard",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1800,
+    "valor": 3.9,
+    "description": "Once per turn, during your End Phase: You can change the battle position of this card."
+}

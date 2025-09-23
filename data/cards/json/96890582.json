@@ -1,0 +1,13 @@
+{
+    "id": "96890582",
+    "name": "Flash Assailant",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 2000,
+    "defense": 2000,
+    "valor": 4.7,
+    "description": "Decrease the ATK and DEF of this card by 400 points for each card in your hand."
+}

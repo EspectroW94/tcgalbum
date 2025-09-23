@@ -1,0 +1,13 @@
+{
+    "id": "5388481",
+    "name": "Darkfire Soldier #1",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1150,
+    "valor": 3.55,
+    "description": "An explosive expert from a special elite force."
+}

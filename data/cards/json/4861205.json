@@ -1,0 +1,13 @@
+{
+    "id": "4861205",
+    "name": "Call of the Mummy",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "42431843",
+    "name": "Ancient Brain",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 700,
+    "valor": 2.3,
+    "description": "A fallen fairy that is powerful in the dark."
+}

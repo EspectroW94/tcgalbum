@@ -1,0 +1,13 @@
+{
+    "id": "2504891",
+    "name": "Skull Knight",
+    "type": "Fusion Monster",
+    "sub-type": "Spellcaster",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2650,
+    "defense": 2250,
+    "valor": 5.9,
+    "description": "\"Tainted Wisdom\" + \"Ancient Brain\""
+}

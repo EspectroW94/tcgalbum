@@ -1,0 +1,13 @@
+{
+    "id": "85309439",
+    "name": "Ray & Temperature",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds."
+}

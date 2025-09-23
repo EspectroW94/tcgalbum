@@ -1,0 +1,13 @@
+{
+    "id": "8951260",
+    "name": "Respect Play",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "During their respective turns, each player must show their opponent their hand."
+}

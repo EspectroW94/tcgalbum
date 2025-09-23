@@ -1,0 +1,13 @@
+{
+    "id": "549481",
+    "name": "Prevent Rat",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 500,
+    "defense": 2000,
+    "valor": 3.2,
+    "description": "This creature is shielded with a tough hide of hair and is excellent at defending itself."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "38411870",
+    "name": "Needle Ceiling",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "When there are 4 or more monsters on the field: Destroy all face-up monsters."
+}

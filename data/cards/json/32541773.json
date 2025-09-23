@@ -1,0 +1,13 @@
+{
+    "id": "32541773",
+    "name": "The Portrait's Secret",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1500,
+    "valor": 3.4,
+    "description": "A portrait cursed by the artist, it is said to bring ill fortune to anyone who owns it."
+}

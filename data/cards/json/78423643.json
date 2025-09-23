@@ -1,0 +1,13 @@
+{
+    "id": "78423643",
+    "name": "Three-Headed Geedo",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1400,
+    "valor": 3.3,
+    "description": "A three-headed nocturnal monster that is absolutely ruthless when fighting."
+}

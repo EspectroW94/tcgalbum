@@ -1,0 +1,13 @@
+{
+    "id": "83464209",
+    "name": "Mystical Sheep #2",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 800,
+    "defense": 1000,
+    "valor": 2.4,
+    "description": "A monstrous sheep with a long tail for hypnotizing enemies."
+}

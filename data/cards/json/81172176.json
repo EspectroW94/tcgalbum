@@ -1,0 +1,13 @@
+{
+    "id": "81172176",
+    "name": "Fiend Comedian",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Toss a coin and call it. If you call it right, all your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the cards in your opponent's Graveyard from your Deck to your Graveyard."
+}

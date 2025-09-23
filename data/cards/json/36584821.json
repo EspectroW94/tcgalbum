@@ -1,0 +1,13 @@
+{
+    "id": "36584821",
+    "name": "Gren Maju Da Eiza",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": -1,
+    "defense": -1,
+    "valor": 0.6,
+    "description": "This card's ATK/DEF are each equal to the number of your banished cards x 400."
+}

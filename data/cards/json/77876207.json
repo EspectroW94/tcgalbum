@@ -1,0 +1,13 @@
+{
+    "id": "77876207",
+    "name": "Secret Pass to the Treasures",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 face-up monster with an ATK equal to 1000 points or less on your side of the field. During the turn this card is activated, the selected monster can attack your opponent's Life Points directly."
+}

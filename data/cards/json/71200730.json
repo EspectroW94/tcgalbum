@@ -1,0 +1,13 @@
+{
+    "id": "71200730",
+    "name": "Despair from the Dark",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 8,
+    "attack": 2800,
+    "defense": 3000,
+    "valor": 6.9,
+    "description": "If this card is sent from your hand or Deck to your GY by an opponent's card effect: Special Summon this card."
+}

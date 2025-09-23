@@ -1,0 +1,13 @@
+{
+    "id": "65396880",
+    "name": "Huge Revolution",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "This card can only be activated during your Main Phase when \"People Running About\", \"Oppressed People\", and \"United Resistance\" are face-up on your side of the field. Send all cards in your opponent's hand to the Graveyard and destroy all cards your opponent controls on the field."
+}

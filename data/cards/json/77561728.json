@@ -1,0 +1,13 @@
+{
+    "id": "77561728",
+    "name": "Disturbance Strategy",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards."
+}

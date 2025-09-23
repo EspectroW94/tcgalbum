@@ -1,0 +1,13 @@
+{
+    "id": "17881964",
+    "name": "Darkfire Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Dragon",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1250,
+    "valor": 3.45,
+    "description": "\"Firegrass\" + \"Petit Dragon\""
+}

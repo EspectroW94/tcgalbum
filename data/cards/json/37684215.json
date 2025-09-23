@@ -1,0 +1,13 @@
+{
+    "id": "37684215",
+    "name": "Fusion Sword Murasame Blade",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Equip only to a Warrior-Type monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects."
+}

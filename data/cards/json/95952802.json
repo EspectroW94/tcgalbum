@@ -1,0 +1,13 @@
+{
+    "id": "95952802",
+    "name": "Flower Wolf",
+    "type": "Fusion Monster",
+    "sub-type": "Beast",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1400,
+    "valor": 4.0,
+    "description": "\"Silver Fang\" + \"Darkworld Thorns\""
+}

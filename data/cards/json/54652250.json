@@ -1,0 +1,13 @@
+{
+    "id": "54652250",
+    "name": "Man-Eater Bug",
+    "type": "Flip Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 450,
+    "defense": 600,
+    "valor": 1.55,
+    "description": "FLIP: Target 1 monster on the field; destroy it."
+}

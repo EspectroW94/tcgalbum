@@ -1,0 +1,13 @@
+{
+    "id": "38033121",
+    "name": "Dark Magician Girl",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 2000,
+    "defense": 1700,
+    "valor": 4.6,
+    "description": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY."
+}

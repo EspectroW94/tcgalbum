@@ -1,0 +1,13 @@
+{
+    "id": "51345461",
+    "name": "Sword Hunter",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2450,
+    "defense": 1700,
+    "valor": 5.15,
+    "description": "At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.\n● The equipped monster gains 200 ATK."
+}

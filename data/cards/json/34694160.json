@@ -1,0 +1,13 @@
+{
+    "id": "34694160",
+    "name": "The Eye of Truth",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Your opponent must keep their hand revealed. Once per turn, during your opponent's Standby Phase, if they have a Spell(s) in their hand: They gain 1000 LP if they have a Spell(s) in their hand at resolution."
+}

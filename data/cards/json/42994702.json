@@ -1,0 +1,13 @@
+{
+    "id": "42994702",
+    "name": "Wandering Mummy",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1500,
+    "valor": 3.7,
+    "description": "You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position."
+}

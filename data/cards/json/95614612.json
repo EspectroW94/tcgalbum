@@ -1,0 +1,13 @@
+{
+    "id": "95614612",
+    "name": "Cannonball Spear Shellfish",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 2,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.5,
+    "description": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards."
+}

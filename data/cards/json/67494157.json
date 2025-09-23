@@ -1,0 +1,13 @@
+{
+    "id": "67494157",
+    "name": "Crawling Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1400,
+    "valor": 3.8,
+    "description": "This weakened dragon can no longer fly, but is still a deadly force to be reckoned with."
+}

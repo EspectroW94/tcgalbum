@@ -1,0 +1,13 @@
+{
+    "id": "38992735",
+    "name": "Wave-Motion Cannon",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "During your Main Phase: You can send this face-up card to the GY; inflict 1000 damage to your opponent for each of your Standby Phases that have passed since this card was activated."
+}

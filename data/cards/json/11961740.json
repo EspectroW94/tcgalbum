@@ -1,0 +1,13 @@
+{
+    "id": "11961740",
+    "name": "Different Dimension Capsule",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand."
+}

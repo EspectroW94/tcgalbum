@@ -1,0 +1,13 @@
+{
+    "id": "61528025",
+    "name": "Banisher of the Light",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 100,
+    "defense": 2000,
+    "valor": 2.7,
+    "description": "Any card sent to the Graveyard is banished instead."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "47025270",
+    "name": "Helping Robo for Combat",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1600,
+    "defense": 0,
+    "valor": 2.3,
+    "description": "If this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck."
+}

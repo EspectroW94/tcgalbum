@@ -1,0 +1,13 @@
+{
+    "id": "55013285",
+    "name": "Troop Dragon",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 2,
+    "attack": 700,
+    "defense": 800,
+    "valor": 2.0,
+    "description": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck."
+}

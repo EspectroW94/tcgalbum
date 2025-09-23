@@ -1,0 +1,13 @@
+{
+    "id": "11743119",
+    "name": "Union Rider",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 2,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.5,
+    "description": "You can take control of up to 1 Union Monster that is currently a monster on your opponent's side of the field, and equip it to this card. The Union Monster that is equipped to this card cannot be changed back to a monster using its own effect."
+}

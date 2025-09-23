@@ -1,0 +1,13 @@
+{
+    "id": "75646520",
+    "name": "Metal Detector",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated."
+}

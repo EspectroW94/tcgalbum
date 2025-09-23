@@ -1,0 +1,13 @@
+{
+    "id": "76075810",
+    "name": "Throwstone Unit",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 900,
+    "defense": 2000,
+    "valor": 3.6,
+    "description": "Tribute 1 Warrior-Type monster on your side of the field to destroy 1 face-up monster on the field whose DEF is equal to or less than the ATK of this card."
+}

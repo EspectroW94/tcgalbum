@@ -1,0 +1,13 @@
+{
+    "id": "9074847",
+    "name": "Major Riot",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can activate this card when 1 or more of your monsters are returned from the field to your hand by your opponent's effect. Return all Monster Cards on the field to your respective hands. Both you and your opponent then Special Summon from your hand the same number of Monster Cards on the field in face-down Defense Position."
+}

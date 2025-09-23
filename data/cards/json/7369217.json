@@ -1,0 +1,13 @@
+{
+    "id": "7369217",
+    "name": "Metallizing Parasite - Lunatite",
+    "type": "Union Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 7,
+    "attack": 1000,
+    "defense": 500,
+    "valor": 2.5,
+    "description": "Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)"
+}

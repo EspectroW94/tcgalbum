@@ -1,0 +1,13 @@
+{
+    "id": "35429292",
+    "name": "Pixie Knight",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 2,
+    "attack": 1300,
+    "defense": 200,
+    "valor": 2.0,
+    "description": "When this card is sent to the Graveyard as a result of battle, your opponent selects 1 Spell Card from your Graveyard, and places that card on the top of your Deck."
+}

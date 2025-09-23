@@ -1,0 +1,13 @@
+{
+    "id": "53112492",
+    "name": "Anti-Spell",
+    "type": "Trap Card",
+    "sub-type": "Counter",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it."
+}

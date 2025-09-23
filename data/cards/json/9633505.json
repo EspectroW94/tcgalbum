@@ -1,0 +1,13 @@
+{
+    "id": "9633505",
+    "name": "Guardian Kay'est",
+    "type": "Effect Monster",
+    "sub-type": "Sea Serpent",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.5,
+    "description": "Cannot be Summoned unless you control a face-up \"Rod of Silence - Kay'est\". This card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly."
+}

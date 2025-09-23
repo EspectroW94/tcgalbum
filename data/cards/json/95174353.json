@@ -1,0 +1,13 @@
+{
+    "id": "95174353",
+    "name": "Ameba",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 1,
+    "attack": 300,
+    "defense": 350,
+    "valor": 1.05,
+    "description": "When the control of this face-up card on the field shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. This effect can only be used once as long as this card remains face-up on the field."
+}

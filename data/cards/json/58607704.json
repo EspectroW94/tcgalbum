@@ -1,0 +1,13 @@
+{
+    "id": "58607704",
+    "name": "Fiend's Hand Mirror",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Switch the opponent's Spell Card effect that targets 1 Spell or Trap Card to another correct target."
+}

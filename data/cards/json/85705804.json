@@ -1,0 +1,13 @@
+{
+    "id": "85705804",
+    "name": "Kurama",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 800,
+    "defense": 800,
+    "valor": 2.2,
+    "description": "A vicious bird that attacks from the skies with its whip-like tail."
+}

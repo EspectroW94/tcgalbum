@@ -1,0 +1,13 @@
+{
+    "id": "81985784",
+    "name": "Des Feral Imp",
+    "type": "Flip Effect Monster",
+    "sub-type": "Reptile",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1800,
+    "valor": 4.1,
+    "description": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck."
+}

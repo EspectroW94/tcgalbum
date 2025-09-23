@@ -1,0 +1,13 @@
+{
+    "id": "77044671",
+    "name": "Pyramid Turtle",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1400,
+    "valor": 3.3,
+    "description": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "47355498",
+    "name": "Necrovalley",
+    "type": "Spell Card",
+    "sub-type": "Field",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard."
+}

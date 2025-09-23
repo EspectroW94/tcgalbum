@@ -1,0 +1,13 @@
+{
+    "id": "58696829",
+    "name": "Bio-Mage",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 1150,
+    "defense": 1000,
+    "valor": 2.75,
+    "description": "A mysterious priest created as a result of the latest advances in biotechnology."
+}

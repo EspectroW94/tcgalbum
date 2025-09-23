@@ -1,0 +1,13 @@
+{
+    "id": "82529174",
+    "name": "Ray of Hope",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Add 2 LIGHT monsters from your Graveyard to your Deck and shuffle it."
+}

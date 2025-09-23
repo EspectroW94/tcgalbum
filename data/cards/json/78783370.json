@@ -1,0 +1,13 @@
+{
+    "id": "78783370",
+    "name": "Barrel Behind the Door",
+    "type": "Trap Card",
+    "sub-type": "Counter",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead."
+}

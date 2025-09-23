@@ -1,0 +1,13 @@
+{
+    "id": "25655502",
+    "name": "Bickuribox",
+    "type": "Fusion Monster",
+    "sub-type": "Fiend",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2300,
+    "defense": 2000,
+    "valor": 5.3,
+    "description": "\"Crass Clown\" + \"Dream Clown\""
+}

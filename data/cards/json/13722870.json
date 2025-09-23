@@ -1,0 +1,13 @@
+{
+    "id": "13722870",
+    "name": "Dark Flare Knight",
+    "type": "Fusion Monster",
+    "sub-type": "Warrior",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 2200,
+    "defense": 800,
+    "valor": 3.9,
+    "description": "\"Dark Magician\" + \"Flame Swordsman\"\nYou take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck."
+}

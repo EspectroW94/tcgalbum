@@ -1,0 +1,13 @@
+{
+    "id": "15259703",
+    "name": "Toon World",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Activate this card by paying 1000 LP."
+}

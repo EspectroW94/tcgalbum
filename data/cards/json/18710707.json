@@ -1,0 +1,13 @@
+{
+    "id": "18710707",
+    "name": "The Furious Sea King",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 800,
+    "defense": 700,
+    "valor": 2.1,
+    "description": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy."
+}

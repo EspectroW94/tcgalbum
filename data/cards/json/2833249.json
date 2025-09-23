@@ -1,0 +1,13 @@
+{
+    "id": "2833249",
+    "name": "D. Tribe",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "All monsters on your side of the field are treated as Dragon-Type until the End Phase of this turn."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "55348096",
+    "name": "Arsenal Robber",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Your opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard."
+}

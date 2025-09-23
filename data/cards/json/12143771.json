@@ -1,0 +1,13 @@
+{
+    "id": "12143771",
+    "name": "People Running About",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 2,
+    "attack": 600,
+    "defense": 600,
+    "valor": 1.7,
+    "description": "Although they always suffer in silence, they swear an oath to inevitably revolt."
+}

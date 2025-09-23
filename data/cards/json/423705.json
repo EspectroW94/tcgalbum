@@ -1,0 +1,13 @@
+{
+    "id": "423705",
+    "name": "Gearfried the Iron Knight",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1600,
+    "valor": 4.1,
+    "description": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s)."
+}

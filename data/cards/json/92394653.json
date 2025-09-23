@@ -1,0 +1,13 @@
+{
+    "id": "92394653",
+    "name": "Spirit's Invitation",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Each time your Spirit monster returns to your hand, select 1 monster on your opponent's side of the field and return it to its owner's hand. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card."
+}

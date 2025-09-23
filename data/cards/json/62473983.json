@@ -1,0 +1,13 @@
+{
+    "id": "62473983",
+    "name": "Gravekeeper's Chief",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1900,
+    "defense": 1200,
+    "valor": 3.9,
+    "description": "You can only control 1 face-up \"Gravekeeper's Chief\". Your GY is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "14644902",
+    "name": "Summoner of Illusions",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 800,
+    "defense": 900,
+    "valor": 2.3,
+    "description": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn."
+}

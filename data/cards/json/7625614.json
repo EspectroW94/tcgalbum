@@ -1,0 +1,13 @@
+{
+    "id": "7625614",
+    "name": "Raregold Armor",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "As long as you control the monster equipped with this card, your opponent cannot attack other monsters other than the equipped monster."
+}

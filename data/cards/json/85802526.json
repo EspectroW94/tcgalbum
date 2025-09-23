@@ -1,0 +1,13 @@
+{
+    "id": "85802526",
+    "name": "Cure Mermaid",
+    "type": "Effect Monster",
+    "sub-type": "Fish",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1500,
+    "defense": 800,
+    "valor": 3.0,
+    "description": "As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases."
+}

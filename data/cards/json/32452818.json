@@ -1,0 +1,13 @@
+{
+    "id": "32452818",
+    "name": "Beaver Warrior",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1500,
+    "valor": 3.4,
+    "description": "What this creature lacks in size it makes up for in defense when battling in the prairie."
+}

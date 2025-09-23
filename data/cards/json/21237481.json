@@ -1,0 +1,13 @@
+{
+    "id": "21237481",
+    "name": "Type Zero Magic Crusher",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "27125110",
+    "name": "Thousand-Eyes Idol",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 1,
+    "attack": 0,
+    "defense": 0,
+    "valor": 0.4,
+    "description": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul."
+}

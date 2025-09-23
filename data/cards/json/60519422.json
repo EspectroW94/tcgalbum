@@ -1,0 +1,13 @@
+{
+    "id": "60519422",
+    "name": "Kishido Spirit",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal."
+}

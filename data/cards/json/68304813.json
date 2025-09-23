@@ -1,0 +1,13 @@
+{
+    "id": "68304813",
+    "name": "Precious Cards from Beyond",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When you Tribute Summon a monster using 2 or more Tributes: Draw 2 cards."
+}

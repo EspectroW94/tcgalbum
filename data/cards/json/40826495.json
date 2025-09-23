@@ -1,0 +1,13 @@
+{
+    "id": "40826495",
+    "name": "Dissolverock",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 1000,
+    "valor": 2.5,
+    "description": "A monster born in the lava pits, it generates intense heat that can melt away its enemies."
+}

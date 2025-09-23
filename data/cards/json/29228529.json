@@ -1,0 +1,13 @@
+{
+    "id": "29228529",
+    "name": "Spell Reproduction",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand."
+}

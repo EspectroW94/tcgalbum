@@ -1,0 +1,13 @@
+{
+    "id": "10071456",
+    "name": "Protector of the Throne",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 800,
+    "defense": 1500,
+    "valor": 3.0,
+    "description": "While the king is away, this queen protects his throne with a mighty defense."
+}

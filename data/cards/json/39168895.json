@@ -1,0 +1,13 @@
+{
+    "id": "39168895",
+    "name": "Berserk Gorilla",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 2000,
+    "defense": 1000,
+    "valor": 3.7,
+    "description": "If this card is in face-up Defense Position, destroy this card. This card must attack if able."
+}

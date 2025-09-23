@@ -1,0 +1,13 @@
+{
+    "id": "16222645",
+    "name": "Sasuke Samurai",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 2,
+    "attack": 500,
+    "defense": 800,
+    "valor": 1.8,
+    "description": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster."
+}

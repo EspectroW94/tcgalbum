@@ -1,0 +1,13 @@
+{
+    "id": "41855169",
+    "name": "Jowgen the Spiritualist",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 200,
+    "defense": 1300,
+    "valor": 2.1,
+    "description": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters."
+}

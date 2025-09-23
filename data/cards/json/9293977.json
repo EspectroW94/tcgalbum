@@ -1,0 +1,13 @@
+{
+    "id": "9293977",
+    "name": "Metal Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 6,
+    "attack": 1850,
+    "defense": 1700,
+    "valor": 4.45,
+    "description": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\""
+}

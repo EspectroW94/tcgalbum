@@ -1,0 +1,13 @@
+{
+    "id": "51275027",
+    "name": "The Unhappy Maiden",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 1,
+    "attack": 0,
+    "defense": 100,
+    "valor": 0.5,
+    "description": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately."
+}

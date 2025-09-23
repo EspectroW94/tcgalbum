@@ -1,0 +1,13 @@
+{
+    "id": "3055837",
+    "name": "Trap of Board Eraser",
+    "type": "Trap Card",
+    "sub-type": "Counter",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when an effect that inflicts damage to your Life Points is activated (except Battle Damage). Negate the Effect Damage you receive and your opponent then selects 1 card from his/her hand and discards it."
+}

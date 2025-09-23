@@ -1,0 +1,13 @@
+{
+    "id": "92421852",
+    "name": "Robolady",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 450,
+    "defense": 900,
+    "valor": 1.95,
+    "description": "A warrior fully covered with metal. It upgrades by fusing with \"Roboyarou\"."
+}

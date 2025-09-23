@@ -1,0 +1,13 @@
+{
+    "id": "20277860",
+    "name": "Armored Zombie",
+    "type": "Normal Monster",
+    "sub-type": "Zombie",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1500,
+    "defense": 0,
+    "valor": 2.1,
+    "description": "This warrior blindly swings a deadly blade with devastating force."
+}

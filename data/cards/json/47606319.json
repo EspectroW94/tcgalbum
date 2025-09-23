@@ -1,0 +1,13 @@
+{
+    "id": "47606319",
+    "name": "Gigantes",
+    "type": "Effect Monster",
+    "sub-type": "Rock",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1900,
+    "defense": 1300,
+    "valor": 3.9,
+    "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field."
+}

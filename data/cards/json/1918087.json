@@ -1,0 +1,13 @@
+{
+    "id": "1918087",
+    "name": "Minor Goblin Official",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when your opponent's Life Points are 3000 or less. Inflict 500 points of damage to your opponent's Life Points during each of his/her Standby Phases."
+}

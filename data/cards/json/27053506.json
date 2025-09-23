@@ -1,0 +1,13 @@
+{
+    "id": "27053506",
+    "name": "Secret Barrel",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Inflict 200 damage to your opponent for each card in their hand and for each card they control."
+}

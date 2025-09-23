@@ -1,0 +1,13 @@
+{
+    "id": "55875323",
+    "name": "Electric Lizard",
+    "type": "Effect Monster",
+    "sub-type": "Thunder",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 850,
+    "defense": 800,
+    "valor": 2.25,
+    "description": "A non Zombie-Type monster attacking \"Electric Lizard\" cannot attack on its following turn."
+}

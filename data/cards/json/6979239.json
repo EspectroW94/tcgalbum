@@ -1,0 +1,13 @@
+{
+    "id": "6979239",
+    "name": "Woodland Sprite",
+    "type": "Effect Monster",
+    "sub-type": "Plant",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 400,
+    "valor": 1.9,
+    "description": "Send 1 Equip Card equipped to this card to the Graveyard. Inflict 500 points of damage to your opponent's Life Points."
+}

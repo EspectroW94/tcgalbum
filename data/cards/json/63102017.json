@@ -1,0 +1,13 @@
+{
+    "id": "63102017",
+    "name": "Stop Defense",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position."
+}

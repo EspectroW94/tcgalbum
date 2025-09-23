@@ -1,0 +1,13 @@
+{
+    "id": "80168720",
+    "name": "Darkness Approaches",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position."
+}

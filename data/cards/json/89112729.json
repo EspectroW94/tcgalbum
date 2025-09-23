@@ -1,0 +1,13 @@
+{
+    "id": "89112729",
+    "name": "Cyber Saurus",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1400,
+    "valor": 4.0,
+    "description": "\"Blast Juggler\" + \"Two-Headed King Rex\""
+}

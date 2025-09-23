@@ -1,0 +1,13 @@
+{
+    "id": "77379481",
+    "name": "Sasuke Samurai #3",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws cards until his/her hand has 7 cards."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "90147755",
+    "name": "Lady Assailant of Flames",
+    "type": "Flip Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1000,
+    "valor": 3.2,
+    "description": "FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "72630549",
+    "name": "Chaos Command Magician",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 6,
+    "attack": 2400,
+    "defense": 1900,
+    "valor": 5.2,
+    "description": "Negate the effect of a Monster Card that targets this 1 card."
+}

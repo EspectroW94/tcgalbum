@@ -1,0 +1,13 @@
+{
+    "id": "10352095",
+    "name": "Scroll of Bewitchment",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select."
+}

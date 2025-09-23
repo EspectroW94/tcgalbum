@@ -1,0 +1,13 @@
+{
+    "id": "71453557",
+    "name": "Autonomous Action Unit",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Pay 1500 Life Points, then target 1 monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster."
+}

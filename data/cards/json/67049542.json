@@ -1,0 +1,13 @@
+{
+    "id": "67049542",
+    "name": "Dark Bat",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "Bats from the netherworld that use their hyper senses to detect their enemies."
+}

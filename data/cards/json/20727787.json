@@ -1,0 +1,13 @@
+{
+    "id": "20727787",
+    "name": "Disarmament",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Destroy all Equip Cards on the field."
+}

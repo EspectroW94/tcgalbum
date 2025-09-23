@@ -1,0 +1,13 @@
+{
+    "id": "68846917",
+    "name": "Rock Ogre Grotto #1",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 800,
+    "defense": 1200,
+    "valor": 2.6,
+    "description": "Protected by a solid body of rock, this monster throws a bone-shattering punch."
+}

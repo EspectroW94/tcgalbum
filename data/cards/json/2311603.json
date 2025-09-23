@@ -1,0 +1,13 @@
+{
+    "id": "2311603",
+    "name": "Overdrive",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1500,
+    "valor": 3.8,
+    "description": "An all-terrain armored vehicle armed with a heavy-duty machine gun."
+}

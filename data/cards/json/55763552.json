@@ -1,0 +1,13 @@
+{
+    "id": "55763552",
+    "name": "Dragon Piper",
+    "type": "Flip Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": 200,
+    "defense": 1800,
+    "valor": 2.6,
+    "description": "FLIP: Destroy all face-up \"Dragon Capture Jar\"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position."
+}

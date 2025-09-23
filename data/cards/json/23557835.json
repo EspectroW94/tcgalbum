@@ -1,0 +1,13 @@
+{
+    "id": "23557835",
+    "name": "Dimension Fusion",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Pay 2000 Life Points. Both players Special Summon as many of their removed from play monsters as possible."
+}

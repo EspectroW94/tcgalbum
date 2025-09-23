@@ -1,0 +1,13 @@
+{
+    "id": "425934",
+    "name": "Goblin of Greed",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.5,
+    "description": "As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand."
+}

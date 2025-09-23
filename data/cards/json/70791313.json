@@ -1,0 +1,13 @@
+{
+    "id": "70791313",
+    "name": "Royal Magical Library",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 0,
+    "defense": 2000,
+    "valor": 2.7,
+    "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card."
+}

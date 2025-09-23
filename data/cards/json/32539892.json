@@ -1,0 +1,13 @@
+{
+    "id": "32539892",
+    "name": "Minar",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 850,
+    "defense": 750,
+    "valor": 2.2,
+    "description": "When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent's Life Points."
+}

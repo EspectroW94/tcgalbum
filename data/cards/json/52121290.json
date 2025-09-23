@@ -1,0 +1,13 @@
+{
+    "id": "52121290",
+    "name": "Spherous Lady",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 400,
+    "defense": 1400,
+    "valor": 2.4,
+    "description": "Many have been deceived by the beauty of this vampire."
+}

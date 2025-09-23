@@ -1,0 +1,13 @@
+{
+    "id": "76909279",
+    "name": "Enraged Battle Ox",
+    "type": "Effect Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1000,
+    "valor": 3.4,
+    "description": "If a Beast, Beast-Warrior, or Winged Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent."
+}

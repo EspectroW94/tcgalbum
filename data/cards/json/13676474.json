@@ -1,0 +1,13 @@
+{
+    "id": "13676474",
+    "name": "Grand Tiki Elder",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 800,
+    "valor": 3.0,
+    "description": "A masked monster that wields the most deadly of curses."
+}

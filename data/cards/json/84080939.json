@@ -1,0 +1,13 @@
+{
+    "id": "84080939",
+    "name": "The Forgiving Maiden",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 850,
+    "defense": 2000,
+    "valor": 3.55,
+    "description": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn."
+}

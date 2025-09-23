@@ -1,0 +1,13 @@
+{
+    "id": "20060230",
+    "name": "Hard Armor",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 300,
+    "defense": 1200,
+    "valor": 2.1,
+    "description": "A living suit of armor that attacks enemies with a bone-jarring tackle."
+}

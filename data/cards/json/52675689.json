@@ -1,0 +1,13 @@
+{
+    "id": "52675689",
+    "name": "Invitation to a Dark Sleep",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1500,
+    "defense": 1800,
+    "valor": 4.1,
+    "description": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack."
+}

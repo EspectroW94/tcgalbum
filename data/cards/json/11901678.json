@@ -1,0 +1,13 @@
+{
+    "id": "11901678",
+    "name": "Black Skull Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Dragon",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 9,
+    "attack": 3200,
+    "defense": 2500,
+    "valor": 6.9,
+    "description": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\r\n\r\n\r\n\r\n(This card is always treated as an \"Archfiend\" card.)"
+}

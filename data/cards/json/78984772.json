@@ -1,0 +1,13 @@
+{
+    "id": "78984772",
+    "name": "Twin-Headed Fire Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 6,
+    "attack": 2200,
+    "defense": 1700,
+    "valor": 4.8,
+    "description": "Two dragons fused as one from the effects of the Big Bang."
+}

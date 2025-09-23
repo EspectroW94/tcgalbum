@@ -1,0 +1,13 @@
+{
+    "id": "79335209",
+    "name": "Ojama Black",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 2,
+    "attack": 0,
+    "defense": 1000,
+    "valor": 1.5,
+    "description": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens."
+}

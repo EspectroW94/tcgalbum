@@ -1,0 +1,13 @@
+{
+    "id": "68049471",
+    "name": "The Gross Ghost of Fled Dreams",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1300,
+    "defense": 1800,
+    "valor": 3.8,
+    "description": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "84636823",
+    "name": "Spell Canceller",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1600,
+    "valor": 4.2,
+    "description": "Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field."
+}

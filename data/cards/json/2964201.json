@@ -1,0 +1,13 @@
+{
+    "id": "2964201",
+    "name": "Ryu-Ran",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 7,
+    "attack": 2200,
+    "defense": 2600,
+    "valor": 5.8,
+    "description": "A vicious little dragon sheltered in an egg that looks deceptively harmless."
+}

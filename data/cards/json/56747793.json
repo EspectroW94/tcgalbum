@@ -1,0 +1,13 @@
+{
+    "id": "56747793",
+    "name": "United We Stand",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The equipped monster gains 800 ATK/DEF for each face-up monster you control."
+}

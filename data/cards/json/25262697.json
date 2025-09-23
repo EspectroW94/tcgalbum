@@ -1,0 +1,13 @@
+{
+    "id": "25262697",
+    "name": "Gravekeeper's Assailant",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1500,
+    "valor": 3.7,
+    "description": "When this card declares an attack while \"Necrovalley\" is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position."
+}

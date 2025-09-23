@@ -1,0 +1,13 @@
+{
+    "id": "57305373",
+    "name": "Two-Mouth Darkruler",
+    "type": "Normal Monster",
+    "sub-type": "Dinosaur",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 700,
+    "valor": 2.2,
+    "description": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back."
+}

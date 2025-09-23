@@ -1,0 +1,13 @@
+{
+    "id": "69455834",
+    "name": "King of Yamimakai",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 2000,
+    "defense": 1530,
+    "valor": 4.33,
+    "description": "Wields the power of darkness to destroy its enemies."
+}

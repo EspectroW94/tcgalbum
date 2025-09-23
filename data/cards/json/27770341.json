@@ -1,0 +1,13 @@
+{
+    "id": "27770341",
+    "name": "Super Rejuvenation",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn."
+}

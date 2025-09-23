@@ -1,0 +1,13 @@
+{
+    "id": "38742075",
+    "name": "Frontier Wiseman",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1600,
+    "defense": 800,
+    "valor": 3.0,
+    "description": "Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card."
+}

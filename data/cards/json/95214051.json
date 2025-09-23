@@ -1,0 +1,13 @@
+{
+    "id": "95214051",
+    "name": "Jade Insect Whistle",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Your opponent selects 1 Insect-Type Monster from their Deck. After shuffling the Deck, place the card on top of the Deck."
+}

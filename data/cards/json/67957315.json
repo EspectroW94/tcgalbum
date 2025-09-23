@@ -1,0 +1,13 @@
+{
+    "id": "67957315",
+    "name": "Spirit Ryu",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.7,
+    "description": "During your Battle Step, if this card battles (Quick Effect): You can discard 1 Dragon monster to the GY; this card gains 1000 ATK/DEF until the end of the Battle Phase."
+}

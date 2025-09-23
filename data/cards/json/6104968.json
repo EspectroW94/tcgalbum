@@ -1,0 +1,13 @@
+{
+    "id": "6104968",
+    "name": "Bubonic Vermin",
+    "type": "Flip Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 600,
+    "valor": 2.1,
+    "description": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck."
+}

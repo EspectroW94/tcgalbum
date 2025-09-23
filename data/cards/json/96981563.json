@@ -1,0 +1,13 @@
+{
+    "id": "96981563",
+    "name": "Giant Turtle Who Feeds on Flames",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1400,
+    "defense": 1800,
+    "valor": 4.0,
+    "description": "A crimson-shelled tortoise that feeds on flames."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "295517",
+    "name": "A Legendary Ocean",
+    "type": "Spell Card",
+    "sub-type": "Field",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "(This card's name is always treated as \"Umi\".)\r\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1."
+}

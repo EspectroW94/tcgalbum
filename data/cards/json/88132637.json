@@ -1,0 +1,13 @@
+{
+    "id": "88132637",
+    "name": "Twin-Headed Wolf",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1000,
+    "valor": 3.2,
+    "description": "While you control another Fiend monster, negate the effects of Flip monsters destroyed by battle with this card."
+}

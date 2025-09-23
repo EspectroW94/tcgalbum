@@ -1,0 +1,13 @@
+{
+    "id": "33737664",
+    "name": "Graverobber's Retribution",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play."
+}

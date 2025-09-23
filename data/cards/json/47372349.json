@@ -1,0 +1,13 @@
+{
+    "id": "47372349",
+    "name": "Acrobat Monkey",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.4,
+    "description": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically."
+}

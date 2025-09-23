@@ -1,0 +1,13 @@
+{
+    "id": "45547649",
+    "name": "Birdface",
+    "type": "Effect Monster",
+    "sub-type": "Winged Beast",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1600,
+    "valor": 3.9,
+    "description": "When this card is destroyed by battle and sent to the GY: You can add 1 \"Harpie Lady\" from your Deck to your hand."
+}

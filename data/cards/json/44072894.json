@@ -1,0 +1,13 @@
+{
+    "id": "44072894",
+    "name": "Supply",
+    "type": "Flip Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1300,
+    "defense": 800,
+    "valor": 2.8,
+    "description": "FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand."
+}

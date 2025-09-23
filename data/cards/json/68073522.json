@@ -1,0 +1,13 @@
+{
+    "id": "68073522",
+    "name": "Soul Absorption",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "If a card(s) is banished: Gain 500 LP for each."
+}

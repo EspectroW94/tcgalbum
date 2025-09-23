@@ -1,0 +1,13 @@
+{
+    "id": "7565547",
+    "name": "Collected Power",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Target 1 face-up monster on the field; equip it with all Equip Cards on the field. If any of those Equip Cards is now equipped to an incorrect target, destroy that Equip Card."
+}

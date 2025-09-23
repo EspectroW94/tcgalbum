@@ -1,0 +1,13 @@
+{
+    "id": "45894482",
+    "name": "Gilasaurus",
+    "type": "Effect Monster",
+    "sub-type": "Dinosaur",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1400,
+    "defense": 400,
+    "valor": 2.4,
+    "description": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY."
+}

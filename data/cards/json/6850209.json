@@ -1,0 +1,13 @@
+{
+    "id": "6850209",
+    "name": "A Deal with Dark Ruler",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "(This card is always treated as an \"Archfiend\" card.)\nIf a Level 8 or higher monster under your control was sent to the Graveyard this turn: Special Summon 1 \"Berserk Dragon\" from your hand or Deck."
+}

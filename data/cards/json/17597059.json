@@ -1,0 +1,13 @@
+{
+    "id": "17597059",
+    "name": "Byser Shock",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 800,
+    "defense": 600,
+    "valor": 2.2,
+    "description": "If this card is Summoned: Return all Set cards on the field to the hand."
+}

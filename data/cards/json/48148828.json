@@ -1,0 +1,13 @@
+{
+    "id": "48148828",
+    "name": "D.D. Crazy Beast",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1400,
+    "defense": 1400,
+    "valor": 3.4,
+    "description": "A monster that this card destroys as a result of battle is removed from play."
+}

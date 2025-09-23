@@ -1,0 +1,13 @@
+{
+    "id": "32437102",
+    "name": "Dragonic Attack",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points."
+}

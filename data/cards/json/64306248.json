@@ -1,0 +1,13 @@
+{
+    "id": "64306248",
+    "name": "Skull-Mark Ladybug",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 500,
+    "defense": 1500,
+    "valor": 2.7,
+    "description": "When this card is sent to the Graveyard, increase your Life Points by 1000 points."
+}

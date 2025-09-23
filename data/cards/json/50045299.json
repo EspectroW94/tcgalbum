@@ -1,0 +1,13 @@
+{
+    "id": "50045299",
+    "name": "Dragon Capture Jar",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions."
+}

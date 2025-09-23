@@ -1,0 +1,13 @@
+{
+    "id": "54878498",
+    "name": "Kelbek",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1800,
+    "valor": 4.0,
+    "description": "A monster that attacks this card returns to the hand. Damage calculation is applied normally."
+}

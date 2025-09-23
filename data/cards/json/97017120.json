@@ -1,0 +1,13 @@
+{
+    "id": "97017120",
+    "name": "Giant Rat",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1450,
+    "valor": 3.55,
+    "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position."
+}

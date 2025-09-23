@@ -1,0 +1,13 @@
+{
+    "id": "20065549",
+    "name": "Non-Spellcasting Area",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects."
+}

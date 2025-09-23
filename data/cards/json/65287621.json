@@ -1,0 +1,13 @@
+{
+    "id": "65287621",
+    "name": "Dark Driceratops",
+    "type": "Effect Monster",
+    "sub-type": "Dinosaur",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 6,
+    "attack": 2400,
+    "defense": 1500,
+    "valor": 4.8,
+    "description": "If this card attacks a Defense Position monster, inflict piercing battle damage."
+}

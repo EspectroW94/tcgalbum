@@ -1,0 +1,13 @@
+{
+    "id": "67284908",
+    "name": "Labyrinth Wall",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 0,
+    "defense": 3000,
+    "valor": 3.8,
+    "description": "These walls form a labyrinth with no exit for enemies."
+}

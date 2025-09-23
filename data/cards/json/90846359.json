@@ -1,0 +1,13 @@
+{
+    "id": "90846359",
+    "name": "Rivalry of Warlords",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Each player can only control 1 Type of monster. Send all other face-up monsters they control to the GY."
+}

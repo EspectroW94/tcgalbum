@@ -1,0 +1,13 @@
+{
+    "id": "83986578",
+    "name": "King Tiger Wanghu",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1000,
+    "valor": 3.4,
+    "description": "When a monster(s) with 1400 or less ATK is Normal Summoned or Special Summoned: Destroy those monsters with 1400 or less ATK. This card must be face-up on the field to activate and to resolve this effect."
+}

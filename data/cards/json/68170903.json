@@ -1,0 +1,13 @@
+{
+    "id": "68170903",
+    "name": "A Feint Plan",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "A player cannot attack face-down monsters during this turn."
+}

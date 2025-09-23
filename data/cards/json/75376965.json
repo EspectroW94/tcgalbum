@@ -1,0 +1,13 @@
+{
+    "id": "75376965",
+    "name": "Enchanting Mermaid",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 1200,
+    "defense": 900,
+    "valor": 2.7,
+    "description": "A beautiful mermaid that lures voyagers to a watery grave."
+}

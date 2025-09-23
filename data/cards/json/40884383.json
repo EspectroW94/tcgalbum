@@ -1,0 +1,13 @@
+{
+    "id": "40884383",
+    "name": "Chopman the Desperate Outlaw",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1100,
+    "defense": 500,
+    "valor": 2.2,
+    "description": "When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card."
+}

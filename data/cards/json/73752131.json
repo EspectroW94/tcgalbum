@@ -1,0 +1,13 @@
+{
+    "id": "73752131",
+    "name": "Skilled Dark Magician",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1900,
+    "defense": 1700,
+    "valor": 4.3,
+    "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY."
+}

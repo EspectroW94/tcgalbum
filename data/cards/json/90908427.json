@@ -1,0 +1,13 @@
+{
+    "id": "90908427",
+    "name": "Steel Ogre Grotto #2",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 6,
+    "attack": 1900,
+    "defense": 2200,
+    "valor": 5.0,
+    "description": "A mechanized iron doll with tremendous strength."
+}

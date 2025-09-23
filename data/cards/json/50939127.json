@@ -1,0 +1,13 @@
+{
+    "id": "50939127",
+    "name": "Different Dimension Dragon",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 5,
+    "attack": 1200,
+    "defense": 1500,
+    "valor": 3.5,
+    "description": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK."
+}

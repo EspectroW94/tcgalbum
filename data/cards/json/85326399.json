@@ -1,0 +1,13 @@
+{
+    "id": "85326399",
+    "name": "Spike Seadra",
+    "type": "Normal Monster",
+    "sub-type": "Sea Serpent",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1300,
+    "valor": 3.7,
+    "description": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity."
+}

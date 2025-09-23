@@ -1,0 +1,13 @@
+{
+    "id": "96947648",
+    "name": "Salvage",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "26185991",
+    "name": "Pinch Hopper",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1200,
+    "valor": 2.9,
+    "description": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand."
+}

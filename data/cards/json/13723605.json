@@ -1,0 +1,13 @@
+{
+    "id": "13723605",
+    "name": "Man-Eating Treasure Chest",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1000,
+    "valor": 3.3,
+    "description": "A monster disguised as a treasure chest that is known to attack the unwary adventurer."
+}

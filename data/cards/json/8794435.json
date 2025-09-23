@@ -1,0 +1,13 @@
+{
+    "id": "8794435",
+    "name": "Maju Garzett",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": -1,
+    "defense": 0,
+    "valor": 1.0,
+    "description": "The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "63571750",
+    "name": "Pharaoh's Treasure",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Shuffle this card face-up into your Deck. If you draw this face-up card that was added to the Deck by this effect: Send it to the GY, then target 1 card in your GY, except this card; add that target to your hand."
+}

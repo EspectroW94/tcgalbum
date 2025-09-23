@@ -1,0 +1,13 @@
+{
+    "id": "10538007",
+    "name": "Leogun",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1750,
+    "defense": 1550,
+    "valor": 4.1,
+    "description": "Huge monster with a lion's mane similar to the King of Beasts."
+}

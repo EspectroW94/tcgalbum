@@ -1,0 +1,13 @@
+{
+    "id": "33784505",
+    "name": "Jar Robber",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "You can only activate this card when \"Pot of Greed\" is activated. Negate the effect of the \"Pot of Greed\" and draw 1 card from your Deck."
+}

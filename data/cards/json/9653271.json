@@ -1,0 +1,13 @@
+{
+    "id": "9653271",
+    "name": "Kaminari Attack",
+    "type": "Fusion Monster",
+    "sub-type": "Thunder",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 5,
+    "attack": 1900,
+    "defense": 1400,
+    "valor": 4.1,
+    "description": "\"Ocubeam\" + \"Mega Thunderball\""
+}

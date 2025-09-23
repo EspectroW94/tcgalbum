@@ -1,0 +1,13 @@
+{
+    "id": "91781589",
+    "name": "Thunder of Ruler",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn."
+}

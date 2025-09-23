@@ -1,0 +1,13 @@
+{
+    "id": "15734813",
+    "name": "Soul Tiger",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 0,
+    "defense": 2100,
+    "valor": 2.8,
+    "description": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley."
+}

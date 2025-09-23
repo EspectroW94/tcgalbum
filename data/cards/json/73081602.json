@@ -1,0 +1,13 @@
+{
+    "id": "73081602",
+    "name": "Queen Bird",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 5,
+    "attack": 1200,
+    "defense": 2000,
+    "valor": 4.0,
+    "description": "This monster attacks enemies using its huge beak."
+}

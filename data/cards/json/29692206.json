@@ -1,0 +1,13 @@
+{
+    "id": "29692206",
+    "name": "Twin Long Rods #2",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 850,
+    "defense": 700,
+    "valor": 2.15,
+    "description": "An amphibious creature with two whip-like tails."
+}

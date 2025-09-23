@@ -1,0 +1,13 @@
+{
+    "id": "34906152",
+    "name": "Mass Driver",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points."
+}

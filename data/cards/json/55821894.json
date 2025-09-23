@@ -1,0 +1,13 @@
+{
+    "id": "55821894",
+    "name": "Amazoness Fighter",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1300,
+    "valor": 3.5,
+    "description": "You take no battle damage from attacks involving this card."
+}

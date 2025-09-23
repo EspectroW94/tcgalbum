@@ -1,0 +1,13 @@
+{
+    "id": "24611934",
+    "name": "Ryu-Kishin Powered",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1200,
+    "valor": 3.5,
+    "description": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent."
+}

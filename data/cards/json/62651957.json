@@ -1,0 +1,13 @@
+{
+    "id": "62651957",
+    "name": "X-Head Cannon",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1500,
+    "valor": 4.0,
+    "description": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters."
+}

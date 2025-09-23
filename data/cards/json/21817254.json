@@ -1,0 +1,13 @@
+{
+    "id": "21817254",
+    "name": "Mega Thunderball",
+    "type": "Normal Monster",
+    "sub-type": "Thunder",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 2,
+    "attack": 750,
+    "defense": 600,
+    "valor": 1.85,
+    "description": "Rolls along the ground releasing bolts of electricity to attack its enemies."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "39751094",
+    "name": "Otohime",
+    "type": "Spirit Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 0,
+    "defense": 100,
+    "valor": 0.7,
+    "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 face-up monster your opponent controls; change that target's battle position."
+}

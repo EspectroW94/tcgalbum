@@ -1,0 +1,13 @@
+{
+    "id": "19406822",
+    "name": "Kotodama",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 0,
+    "defense": 1600,
+    "valor": 2.2,
+    "description": "If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped face-up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)"
+}

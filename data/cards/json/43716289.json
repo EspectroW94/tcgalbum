@@ -1,0 +1,13 @@
+{
+    "id": "43716289",
+    "name": "Poison Mummy",
+    "type": "Flip Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.5,
+    "description": "FLIP: Inflict 500 damage to your opponent."
+}

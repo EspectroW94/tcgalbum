@@ -1,0 +1,13 @@
+{
+    "id": "84926738",
+    "name": "The Immortal of Thunder",
+    "type": "Flip Effect Monster",
+    "sub-type": "Thunder",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1300,
+    "valor": 3.5,
+    "description": "FLIP: Increase your Life Points by 3000 points. When this card is sent from the field to the Graveyard, you lose 5000 Life Points."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "16227556",
+    "name": "Inspection",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "During your opponent's Standby Phase, you can pay 500 Life Points to randomly select 1 card in your opponent's hand and look at it."
+}

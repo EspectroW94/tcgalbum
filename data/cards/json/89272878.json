@@ -1,0 +1,13 @@
+{
+    "id": "89272878",
+    "name": "Guardian of the Labyrinth",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1200,
+    "valor": 2.9,
+    "description": "A monster that guards the entrance to the Netherworld."
+}

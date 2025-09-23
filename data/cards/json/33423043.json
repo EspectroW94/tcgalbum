@@ -1,0 +1,13 @@
+{
+    "id": "33423043",
+    "name": "D.D. Designator",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, remove that 1 card from play. If they do not have the declared card in their hand, remove 1 random card in your hand from play."
+}

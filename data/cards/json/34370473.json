@@ -1,0 +1,13 @@
+{
+    "id": "34370473",
+    "name": "Gryphon's Feather Duster",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Destroy all Spell and Trap Cards on your side of the field. Increase your Life Points by the number of destroyed cards x 500 points."
+}

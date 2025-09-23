@@ -1,0 +1,13 @@
+{
+    "id": "91559748",
+    "name": "Prickle Fairy",
+    "type": "Effect Monster",
+    "sub-type": "Plant",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 300,
+    "defense": 2000,
+    "valor": 3.0,
+    "description": "Your opponent cannot attack Insect monsters. If this card battled a monster, at the end of the Damage Step: Change that monster to Defense Position."
+}

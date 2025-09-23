@@ -1,0 +1,13 @@
+{
+    "id": "48094997",
+    "name": "Battle Footballer",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1000,
+    "defense": 2100,
+    "valor": 3.8,
+    "description": "A cyborg with high defense power. Originally it was invented for a football machine."
+}

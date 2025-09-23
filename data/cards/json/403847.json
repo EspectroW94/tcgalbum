@@ -1,0 +1,13 @@
+{
+    "id": "403847",
+    "name": "The A. Forces",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control."
+}

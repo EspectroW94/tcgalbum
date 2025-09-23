@@ -1,0 +1,13 @@
+{
+    "id": "28546905",
+    "name": "Illusionist Faceless Mage",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1200,
+    "defense": 2200,
+    "valor": 4.2,
+    "description": "Manipulates enemy attacks with the power of illusion."
+}

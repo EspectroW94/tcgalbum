@@ -1,0 +1,13 @@
+{
+    "id": "54704216",
+    "name": "Nightmare Wheel",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "72842870",
+    "name": "Tyhone",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1400,
+    "valor": 3.3,
+    "description": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles."
+}

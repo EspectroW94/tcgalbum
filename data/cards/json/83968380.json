@@ -1,0 +1,13 @@
+{
+    "id": "83968380",
+    "name": "Jar of Greed",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Draw 1 card."
+}

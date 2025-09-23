@@ -1,0 +1,13 @@
+{
+    "id": "23771716",
+    "name": "7 Colored Fish",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1800,
+    "defense": 800,
+    "valor": 3.3,
+    "description": "A rare rainbow fish that has never been caught by mortal man."
+}

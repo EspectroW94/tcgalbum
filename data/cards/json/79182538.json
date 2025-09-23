@@ -1,0 +1,13 @@
+{
+    "id": "79182538",
+    "name": "Mad Dog of Darkness",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1900,
+    "defense": 1400,
+    "valor": 4.0,
+    "description": "He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2111707",
+    "name": "XY-Dragon Cannon",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 6,
+    "attack": 2200,
+    "defense": 1900,
+    "valor": 5.0,
+    "description": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-up Spell/Trap Card your opponent controls; destroy that target."
+}

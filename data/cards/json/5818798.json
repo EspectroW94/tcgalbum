@@ -1,0 +1,13 @@
+{
+    "id": "5818798",
+    "name": "Gazelle the King of Mythical Beasts",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "This monster moves so fast that it looks like an illusion to mortal eyes.\n\n\n(This card is always treated as a \"Phantom Beast\" card.)"
+}

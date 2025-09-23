@@ -1,0 +1,13 @@
+{
+    "id": "21558682",
+    "name": "Jam Defender",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "When an opponent's monster declares an attack on a monster you control: You can target 1 \"Revival Jam\" you control; switch the attack target to that target."
+}

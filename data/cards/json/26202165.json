@@ -1,0 +1,13 @@
+{
+    "id": "26202165",
+    "name": "Sangan",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 600,
+    "valor": 2.2,
+    "description": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn."
+}

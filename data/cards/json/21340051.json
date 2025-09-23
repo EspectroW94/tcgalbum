@@ -1,0 +1,13 @@
+{
+    "id": "21340051",
+    "name": "Boar Soldier",
+    "type": "Effect Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 2000,
+    "defense": 500,
+    "valor": 3.2,
+    "description": "If this card is Normal Summoned, destroy this card. If your opponent controls 1 or more monsters, decrease the ATK of this card by 1000 points."
+}

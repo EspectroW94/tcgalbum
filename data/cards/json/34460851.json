@@ -1,0 +1,13 @@
+{
+    "id": "34460851",
+    "name": "Flame Manipulator",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": 900,
+    "defense": 1000,
+    "valor": 2.5,
+    "description": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\"."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "19153634",
+    "name": "Patrician of Darkness",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 2000,
+    "defense": 1400,
+    "valor": 4.2,
+    "description": "You choose the attack targets for your opponent's attacks."
+}

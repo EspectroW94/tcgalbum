@@ -1,0 +1,13 @@
+{
+    "id": "19827717",
+    "name": "Return of the Doomed",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Discard 1 Monster Card from your hand to the Graveyard. Return 1 of your monsters destroyed and sent to your Graveyard as a result of battle during this turn to your hand at the end of this turn."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "11384280",
+    "name": "Cannon Soldier",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1300,
+    "valor": 3.4,
+    "description": "You can Tribute 1 monster; inflict 500 damage to your opponent."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "13522325",
+    "name": "Spirit of Flames",
+    "type": "Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1000,
+    "valor": 3.4,
+    "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your Graveyard. This card gains 300 ATK during your Battle Phase only."
+}

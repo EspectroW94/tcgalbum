@@ -1,0 +1,13 @@
+{
+    "id": "16268841",
+    "name": "Zolga",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1200,
+    "valor": 3.6,
+    "description": "When a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points."
+}

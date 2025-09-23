@@ -1,0 +1,13 @@
+{
+    "id": "11868825",
+    "name": "Goblin's Secret Remedy",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase your Life Points by 600 points."
+}

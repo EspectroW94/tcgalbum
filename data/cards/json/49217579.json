@@ -1,0 +1,13 @@
+{
+    "id": "49217579",
+    "name": "Mirage Knight",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 8,
+    "attack": 2800,
+    "defense": 2000,
+    "valor": 5.9,
+    "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Dark Flare Knight\" and cannot be Special Summoned by other ways. During damage calculation only, this card gains ATK equal to the original ATK of the opponent's monster it is battling. During the End Phase of a turn this card attacked or was attacked: Banish this card."
+}

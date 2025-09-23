@@ -1,0 +1,13 @@
+{
+    "id": "29172562",
+    "name": "Steel Ogre Grotto #1",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1400,
+    "defense": 1800,
+    "valor": 4.0,
+    "description": "A steel idol worshipped in the Land of Machines."
+}

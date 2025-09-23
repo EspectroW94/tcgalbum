@@ -1,0 +1,13 @@
+{
+    "id": "4542651",
+    "name": "Yellow Luster Shield",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase the DEF of all monsters on your side of the field by 300 points."
+}

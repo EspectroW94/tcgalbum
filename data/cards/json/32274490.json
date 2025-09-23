@@ -1,0 +1,13 @@
+{
+    "id": "32274490",
+    "name": "Skull Servant",
+    "type": "Normal Monster",
+    "sub-type": "Zombie",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 1,
+    "attack": 300,
+    "defense": 200,
+    "valor": 0.9,
+    "description": "A skeletal ghost that isn't strong but can mean trouble in large numbers."
+}

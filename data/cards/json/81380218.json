@@ -1,0 +1,13 @@
+{
+    "id": "81380218",
+    "name": "Chorus of Sanctuary",
+    "type": "Spell Card",
+    "sub-type": "Field",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase the DEF of all Defense Position monsters by 500 points."
+}

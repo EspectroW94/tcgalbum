@@ -1,0 +1,13 @@
+{
+    "id": "74677422",
+    "name": "Red-Eyes Black Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2400,
+    "defense": 2000,
+    "valor": 5.4,
+    "description": "''A ferocious dragon with a deadly attack.''"
+}

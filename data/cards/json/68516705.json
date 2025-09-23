@@ -1,0 +1,13 @@
+{
+    "id": "68516705",
+    "name": "Mystic Horseman",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1300,
+    "defense": 1550,
+    "valor": 3.55,
+    "description": "Half man and half horse, this monster is known for its extreme speed."
+}

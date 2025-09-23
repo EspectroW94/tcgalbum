@@ -1,0 +1,13 @@
+{
+    "id": "28593363",
+    "name": "Deepsea Shark",
+    "type": "Fusion Monster",
+    "sub-type": "Fish",
+    "card": "fusion",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1900,
+    "defense": 1600,
+    "valor": 4.3,
+    "description": "\"Bottom Dweller\" + \"Tongyo\""
+}

@@ -1,0 +1,13 @@
+{
+    "id": "87880531",
+    "name": "Diffusion Wave-Motion",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "(This card is not treated as a \"Fusion\" card.)\r\nIf your opponent controls a monster: Pay 1000 LP, then target 1 Level 7 or higher Spellcaster monster you control; this turn, it must attack all monsters your opponent controls once each, also other monsters you control cannot attack. The effects of monsters destroyed by these attacks cannot activate and are negated."
+}

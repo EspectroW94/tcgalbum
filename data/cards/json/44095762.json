@@ -1,0 +1,13 @@
+{
+    "id": "44095762",
+    "name": "Mirror Force",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters."
+}

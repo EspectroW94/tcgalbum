@@ -1,0 +1,13 @@
+{
+    "id": "6343408",
+    "name": "Miracle Dig",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard."
+}

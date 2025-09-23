@@ -1,0 +1,13 @@
+{
+    "id": "7892180",
+    "name": "Psychic Kappa",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 2,
+    "attack": 400,
+    "defense": 1000,
+    "valor": 1.9,
+    "description": "An amphibian with a myriad of powers to shield it from enemy attacks."
+}

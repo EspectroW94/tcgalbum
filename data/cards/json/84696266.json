@@ -1,0 +1,13 @@
+{
+    "id": "84696266",
+    "name": "Sonic Duck",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1700,
+    "defense": 700,
+    "valor": 3.0,
+    "description": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control."
+}

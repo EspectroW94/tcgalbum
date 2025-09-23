@@ -1,0 +1,13 @@
+{
+    "id": "71283180",
+    "name": "Tornado Bird",
+    "type": "Flip Effect Monster",
+    "sub-type": "Winged Beast",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1100,
+    "defense": 1000,
+    "valor": 2.8,
+    "description": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "56769674",
+    "name": "DNA Transplant",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Activate by declaring 1 monster Attribute. All face-up monsters become that Attribute."
+}

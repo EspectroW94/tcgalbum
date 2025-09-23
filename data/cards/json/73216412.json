@@ -1,0 +1,13 @@
+{
+    "id": "73216412",
+    "name": "Worm Drake",
+    "type": "Normal Monster",
+    "sub-type": "Reptile",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1500,
+    "valor": 3.6,
+    "description": "Once this monster wraps itself around a victim, there is no escape."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "94793422",
+    "name": "Rod of the Mind's Eye",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points."
+}

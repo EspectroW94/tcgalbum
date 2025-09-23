@@ -1,0 +1,13 @@
+{
+    "id": "91998119",
+    "name": "XYZ-Dragon Cannon",
+    "type": "Fusion Monster",
+    "sub-type": "Machine",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 8,
+    "attack": 2800,
+    "defense": 2600,
+    "valor": 6.5,
+    "description": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target."
+}

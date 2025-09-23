@@ -1,0 +1,13 @@
+{
+    "id": "58538870",
+    "name": "Oppressed People",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 1,
+    "attack": 400,
+    "defense": 2000,
+    "valor": 2.8,
+    "description": "They are oppressed, but believe they will have their freedom someday."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "21263083",
+    "name": "Pale Beast",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold."
+}

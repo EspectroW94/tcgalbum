@@ -1,0 +1,13 @@
+{
+    "id": "45042329",
+    "name": "Tripwire Beast",
+    "type": "Normal Monster",
+    "sub-type": "Thunder",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1300,
+    "valor": 3.2,
+    "description": "This creature attacks with electromagnetic waves."
+}

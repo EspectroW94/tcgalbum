@@ -1,0 +1,13 @@
+{
+    "id": "94773007",
+    "name": "Jirai Gumo",
+    "type": "Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 2200,
+    "defense": 100,
+    "valor": 3.0,
+    "description": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points."
+}

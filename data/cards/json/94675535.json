@@ -1,0 +1,13 @@
+{
+    "id": "94675535",
+    "name": "Larvas",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 800,
+    "defense": 1000,
+    "valor": 2.4,
+    "description": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms."
+}

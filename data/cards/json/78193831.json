@@ -1,0 +1,13 @@
+{
+    "id": "78193831",
+    "name": "Buster Blader",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2600,
+    "defense": 2300,
+    "valor": 5.9,
+    "description": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY."
+}

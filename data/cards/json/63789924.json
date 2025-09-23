@@ -1,0 +1,13 @@
+{
+    "id": "63789924",
+    "name": "Smoke Grenade of the Thief",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When this card is destroyed by a card effect while equipped to a monster: Look at your opponent's hand and discard 1 card from their hand."
+}

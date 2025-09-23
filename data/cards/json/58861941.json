@@ -1,0 +1,13 @@
+{
+    "id": "58861941",
+    "name": "Ooguchi",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 1,
+    "attack": 300,
+    "defense": 250,
+    "valor": 0.95,
+    "description": "This monster may attack your opponent's Life Points directly."
+}

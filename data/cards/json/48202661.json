@@ -1,0 +1,13 @@
+{
+    "id": "48202661",
+    "name": "Aitsu",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 5,
+    "attack": 100,
+    "defense": 100,
+    "valor": 1.0,
+    "description": "He seems to be very unreliable, but he might have incredible potential."
+}

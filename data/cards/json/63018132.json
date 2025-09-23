@@ -1,0 +1,13 @@
+{
+    "id": "63018132",
+    "name": "Dragon Manipulator",
+    "type": "Flip Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 700,
+    "defense": 800,
+    "valor": 2.1,
+    "description": "FLIP: Take control of 1 face-up Dragon-Type monster on your opponent's side of the field until the end of the End Phase."
+}

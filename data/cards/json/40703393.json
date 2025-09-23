@@ -1,0 +1,13 @@
+{
+    "id": "40703393",
+    "name": "The Puppet Magic of Dark Ruler",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 Fiend-Type monster from your Graveyard. Remove from play monsters on your side of the field whose total Levels exactly equal the Level of the selected Fiend-Type monster. Then Special Summon the selected monster from your Graveyard."
+}

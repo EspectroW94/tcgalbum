@@ -1,0 +1,13 @@
+{
+    "id": "13039848",
+    "name": "Giant Soldier of Stone",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1300,
+    "defense": 2000,
+    "valor": 3.9,
+    "description": "A giant warrior made of stone. A punch from this creature has earth-shaking results."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "58192742",
+    "name": "Petit Moth",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 1,
+    "attack": 300,
+    "defense": 200,
+    "valor": 0.9,
+    "description": "This small but deadly creature is better off avoided."
+}

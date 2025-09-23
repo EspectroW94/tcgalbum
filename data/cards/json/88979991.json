@@ -1,0 +1,13 @@
+{
+    "id": "88979991",
+    "name": "Killer Needle",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1000,
+    "valor": 2.9,
+    "description": "A huge bee with exceptional strength that's particularly dangerous in a swarm."
+}

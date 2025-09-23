@@ -1,0 +1,13 @@
+{
+    "id": "15866454",
+    "name": "Spiritualism",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Return 1 Spell/Trap Card your opponent controls to the hand. This card's activation and effect cannot be negated."
+}

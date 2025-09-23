@@ -1,0 +1,13 @@
+{
+    "id": "8634636",
+    "name": "Dark Cat with White Tail",
+    "type": "Flip Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 800,
+    "defense": 500,
+    "valor": 1.8,
+    "description": "FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "73698349",
+    "name": "Giant Orc",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 2200,
+    "defense": 0,
+    "valor": 2.9,
+    "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn."
+}

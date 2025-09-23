@@ -1,0 +1,13 @@
+{
+    "id": "41859700",
+    "name": "Burning Algae",
+    "type": "Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": 500,
+    "defense": 1500,
+    "valor": 2.6,
+    "description": "When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points."
+}

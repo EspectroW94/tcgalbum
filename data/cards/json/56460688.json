@@ -1,0 +1,13 @@
+{
+    "id": "56460688",
+    "name": "Different Dimension Gate",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Activate this card by targeting 1 monster on each side of the field; banish those targets. When this card is destroyed and sent to the Graveyard: Return those banished monsters to the field in the same battle positions they were in."
+}

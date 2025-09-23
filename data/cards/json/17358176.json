@@ -1,0 +1,13 @@
+{
+    "id": "17358176",
+    "name": "Lady of Faith",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 1100,
+    "defense": 800,
+    "valor": 2.5,
+    "description": "Soothes the souls of others by chanting a mysterious spell."
+}

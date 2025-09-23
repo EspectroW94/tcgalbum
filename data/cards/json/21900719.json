@@ -1,0 +1,13 @@
+{
+    "id": "21900719",
+    "name": "Twin Swords of Flashing Light - Tryce",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Send 1 card from your hand to the Graveyard; equip this card to a monster. It loses 500 ATK, but it can make a second attack during each Battle Phase."
+}

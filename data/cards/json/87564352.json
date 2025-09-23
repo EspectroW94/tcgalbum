@@ -1,0 +1,13 @@
+{
+    "id": "87564352",
+    "name": "Blackland Fire Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 800,
+    "valor": 3.0,
+    "description": "A dragon that dwells in the depths of darkness, its vulnerability lies in its poor eyesight."
+}

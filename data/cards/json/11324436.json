@@ -1,0 +1,13 @@
+{
+    "id": "11324436",
+    "name": "Electric Snake",
+    "type": "Effect Monster",
+    "sub-type": "Thunder",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 800,
+    "defense": 900,
+    "valor": 2.3,
+    "description": "When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck."
+}

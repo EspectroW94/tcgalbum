@@ -1,0 +1,13 @@
+{
+    "id": "86569121",
+    "name": "Melchid the Four-Face Beast",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "This monster has four different masks for four different attacks."
+}

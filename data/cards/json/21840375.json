@@ -1,0 +1,13 @@
+{
+    "id": "21840375",
+    "name": "Hidden Spellbook",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "During your turn: Target 2 Spell Cards in your Graveyard; shuffle those targets into the Deck."
+}

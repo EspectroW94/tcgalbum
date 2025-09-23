@@ -1,0 +1,13 @@
+{
+    "id": "47942531",
+    "name": "Great Maju Garzett",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 0,
+    "defense": 0,
+    "valor": 0.9,
+    "description": "The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card."
+}

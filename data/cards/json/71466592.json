@@ -1,0 +1,13 @@
+{
+    "id": "71466592",
+    "name": "Maryokutai",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 900,
+    "defense": 900,
+    "valor": 2.4,
+    "description": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it."
+}

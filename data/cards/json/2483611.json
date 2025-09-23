@@ -1,0 +1,13 @@
+{
+    "id": "2483611",
+    "name": "Water Omotics",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1200,
+    "valor": 3.3,
+    "description": "Transforms the water overflowing from a jar into attacking dragons."
+}

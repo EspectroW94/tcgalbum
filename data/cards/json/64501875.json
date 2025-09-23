@@ -1,0 +1,13 @@
+{
+    "id": "64501875",
+    "name": "Hibikime",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1450,
+    "defense": 1000,
+    "valor": 3.15,
+    "description": "Confuses enemy monsters with a noise that is harsh to the ears."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "15237615",
+    "name": "Empress Judge",
+    "type": "Fusion Monster",
+    "sub-type": "Warrior",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 6,
+    "attack": 2100,
+    "defense": 1700,
+    "valor": 4.7,
+    "description": "\"Queen's Double\" + \"Hibikime\""
+}

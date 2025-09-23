@@ -1,0 +1,13 @@
+{
+    "id": "15480588",
+    "name": "Armored Lizard",
+    "type": "Normal Monster",
+    "sub-type": "Reptile",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "A lizard with a very tough hide and a vicious bite."
+}

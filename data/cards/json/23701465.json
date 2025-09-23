@@ -1,0 +1,13 @@
+{
+    "id": "23701465",
+    "name": "Primal Seed",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "If \"Black Luster Soldier - Envoy of the Beginning\" or \"Chaos Emperor Dragon - Envoy of the End\" is on the field: Target 2 of your banished cards; add both those targets to your hand."
+}

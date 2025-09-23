@@ -1,0 +1,13 @@
+{
+    "id": "8471389",
+    "name": "Giga-Tech Wolf",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1400,
+    "valor": 3.3,
+    "description": "An iron wolf with razor-sharp fangs that can penetrate any armor."
+}

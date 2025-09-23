@@ -1,0 +1,13 @@
+{
+    "id": "81325903",
+    "name": "Amazoness Spellcaster",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Target 1 \"Amazoness\" monster you control and 1 face-up monster your opponent controls; switch the original ATK of those targets until the end of this turn."
+}

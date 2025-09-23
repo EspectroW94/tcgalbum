@@ -1,0 +1,13 @@
+{
+    "id": "20831168",
+    "name": "Lizard Soldier",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1100,
+    "defense": 800,
+    "valor": 2.5,
+    "description": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist."
+}

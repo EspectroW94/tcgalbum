@@ -1,0 +1,13 @@
+{
+    "id": "5434080",
+    "name": "Headless Knight",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1450,
+    "defense": 1700,
+    "valor": 3.85,
+    "description": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice."
+}

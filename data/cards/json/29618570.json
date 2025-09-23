@@ -1,0 +1,13 @@
+{
+    "id": "29618570",
+    "name": "Gray Wing",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1300,
+    "defense": 700,
+    "valor": 2.6,
+    "description": "Discard 1 card from your hand during your Main Phase 1. This monster can attack twice during the Battle Phase of this turn."
+}

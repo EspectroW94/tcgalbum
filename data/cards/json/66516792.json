@@ -1,0 +1,13 @@
+{
+    "id": "66516792",
+    "name": "Serpent Night Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2350,
+    "defense": 2400,
+    "valor": 5.75,
+    "description": "A dragon created from the soul of a wicked knight."
+}

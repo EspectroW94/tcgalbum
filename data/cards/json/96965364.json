@@ -1,0 +1,13 @@
+{
+    "id": "96965364",
+    "name": "Insect Imitation",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Tribute 1 monster. Special Summon 1 Insect-Type monster from your Deck whose Level is 1 higher than the Tributed monster's."
+}

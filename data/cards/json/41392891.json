@@ -1,0 +1,13 @@
+{
+    "id": "41392891",
+    "name": "Feral Imp",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1300,
+    "defense": 1400,
+    "valor": 3.4,
+    "description": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy."
+}

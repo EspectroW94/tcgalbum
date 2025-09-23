@@ -1,0 +1,13 @@
+{
+    "id": "8964854",
+    "name": "Combination Attack",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "During a Battle Phase, you can use this effect on 1 monster that has attacked this turn and is equipped with a Union Monster. Change the Union Monster back to a monster in face-up Attack or Defense Position. Also, the monster that was equipped with the Union Monster may attack again this turn."
+}

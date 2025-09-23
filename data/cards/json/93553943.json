@@ -1,0 +1,13 @@
+{
+    "id": "93553943",
+    "name": "Man Eater",
+    "type": "Normal Monster",
+    "sub-type": "Plant",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 800,
+    "defense": 600,
+    "valor": 1.9,
+    "description": "Man-eating plant with poison feelers for attacking enemies."
+}

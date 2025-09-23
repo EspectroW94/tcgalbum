@@ -1,0 +1,13 @@
+{
+    "id": "7489323",
+    "name": "Milus Radiant",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 1,
+    "attack": 300,
+    "defense": 250,
+    "valor": 0.95,
+    "description": "As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "34646691",
+    "name": "Stumbling",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position."
+}

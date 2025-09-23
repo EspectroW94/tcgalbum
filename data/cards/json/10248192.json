@@ -1,0 +1,13 @@
+{
+    "id": "10248192",
+    "name": "Hieroglyph Lithograph",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7."
+}

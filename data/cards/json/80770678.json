@@ -1,0 +1,13 @@
+{
+    "id": "80770678",
+    "name": "Spirit of the Harp",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 800,
+    "defense": 2000,
+    "valor": 3.5,
+    "description": "A spirit that soothes the soul with the music of its heavenly harp."
+}

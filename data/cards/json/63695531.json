@@ -1,0 +1,13 @@
+{
+    "id": "63695531",
+    "name": "Gravekeeper's Spear Soldier",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1000,
+    "valor": 3.2,
+    "description": "If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "31553716",
+    "name": "Spear Dragon",
+    "type": "Effect Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1900,
+    "defense": 0,
+    "valor": 2.6,
+    "description": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step."
+}

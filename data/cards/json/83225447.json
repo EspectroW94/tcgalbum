@@ -1,0 +1,13 @@
+{
+    "id": "83225447",
+    "name": "Stim-Pack",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK."
+}

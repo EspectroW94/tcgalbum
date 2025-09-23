@@ -1,0 +1,13 @@
+{
+    "id": "17535588",
+    "name": "Armored Starfish",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 850,
+    "defense": 1400,
+    "valor": 2.95,
+    "description": "A bluish starfish with a solid hide capable of fending off attacks."
+}

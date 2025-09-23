@@ -1,0 +1,13 @@
+{
+    "id": "27132350",
+    "name": "Fire Sorcerer",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1500,
+    "valor": 3.2,
+    "description": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points."
+}

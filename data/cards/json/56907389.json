@@ -1,0 +1,13 @@
+{
+    "id": "56907389",
+    "name": "Musician King",
+    "type": "Fusion Monster",
+    "sub-type": "Spellcaster",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 5,
+    "attack": 1750,
+    "defense": 1500,
+    "valor": 4.05,
+    "description": "\"Witch of the Black Forest\" + \"Lady of Faith\""
+}

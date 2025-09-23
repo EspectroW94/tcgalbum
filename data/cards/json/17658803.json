@@ -1,0 +1,13 @@
+{
+    "id": "17658803",
+    "name": "Luster Dragon #2",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 6,
+    "attack": 2400,
+    "defense": 1400,
+    "valor": 4.7,
+    "description": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty."
+}

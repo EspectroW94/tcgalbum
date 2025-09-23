@@ -1,0 +1,13 @@
+{
+    "id": "69035382",
+    "name": "Contract with the Abyss",
+    "type": "Spell Card",
+    "sub-type": "Ritual",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card can be used to Ritual Summon any DARK Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon."
+}

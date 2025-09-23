@@ -1,0 +1,13 @@
+{
+    "id": "73134082",
+    "name": "Final Flame",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Inflict 600 points of damage to your opponent's Life Points."
+}

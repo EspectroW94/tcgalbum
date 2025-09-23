@@ -1,0 +1,13 @@
+{
+    "id": "80811661",
+    "name": "Hamburger Recipe",
+    "type": "Spell Card",
+    "sub-type": "Ritual",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card is used to Ritual Summon \"Hungry Burger\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand."
+}

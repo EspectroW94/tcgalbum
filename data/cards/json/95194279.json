@@ -1,0 +1,13 @@
+{
+    "id": "95194279",
+    "name": "Dimension Distortion",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field."
+}

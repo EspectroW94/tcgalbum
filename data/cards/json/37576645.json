@@ -1,0 +1,13 @@
+{
+    "id": "37576645",
+    "name": "Reckless Greed",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Draw 2 cards and skip your next 2 Draw Phases."
+}

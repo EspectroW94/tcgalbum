@@ -1,0 +1,13 @@
+{
+    "id": "56283725",
+    "name": "Kumootoko",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 700,
+    "defense": 1400,
+    "valor": 2.7,
+    "description": "A massive, intelligent spider that traps enemies with webbing."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "17192817",
+    "name": "Molten Behemoth",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 5,
+    "attack": 1000,
+    "defense": 2200,
+    "valor": 4.0,
+    "description": "A giant born from magma, it attacks with a magma punch."
+}

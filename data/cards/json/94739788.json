@@ -1,0 +1,13 @@
+{
+    "id": "94739788",
+    "name": "Remove Brainwashing",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "The control of all monsters on the field returns to the owners."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "33184167",
+    "name": "Tribe-Infecting Virus",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1000,
+    "valor": 3.3,
+    "description": "Discard 1 card from your hand and declare 1 Type of monster. Destroy all face-up monsters of the declared Type on the field."
+}

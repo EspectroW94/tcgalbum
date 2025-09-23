@@ -1,0 +1,13 @@
+{
+    "id": "73481154",
+    "name": "Destroyer Golem",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1000,
+    "valor": 3.2,
+    "description": "A golem with a massive right hand for crushing its victims."
+}

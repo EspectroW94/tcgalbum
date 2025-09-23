@@ -1,0 +1,13 @@
+{
+    "id": "46181000",
+    "name": "Frontline Base",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand."
+}

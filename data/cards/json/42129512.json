@@ -1,0 +1,13 @@
+{
+    "id": "42129512",
+    "name": "Big Koala",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2700,
+    "defense": 2000,
+    "valor": 5.7,
+    "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful."
+}

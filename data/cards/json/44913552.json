@@ -1,0 +1,13 @@
+{
+    "id": "44913552",
+    "name": "Timeater",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 1900,
+    "defense": 1700,
+    "valor": 4.5,
+    "description": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1."
+}

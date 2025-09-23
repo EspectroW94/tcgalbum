@@ -1,0 +1,13 @@
+{
+    "id": "57182235",
+    "name": "Token Thanksgiving",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points."
+}

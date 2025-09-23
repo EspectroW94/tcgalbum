@@ -1,0 +1,13 @@
+{
+    "id": "69279219",
+    "name": "My Body as a Shield",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "31242786",
+    "name": "Souleater",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 0,
+    "valor": 1.9,
+    "description": "A living wonder of mystery."
+}

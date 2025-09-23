@@ -1,0 +1,13 @@
+{
+    "id": "71407486",
+    "name": "Fireyarou",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1300,
+    "defense": 1000,
+    "valor": 3.0,
+    "description": "A malevolent creature wrapped in flames that attacks enemies with intense fire."
+}

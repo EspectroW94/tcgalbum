@@ -1,0 +1,13 @@
+{
+    "id": "74153887",
+    "name": "Dark Scorpion - Meanae the Thorn",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.5,
+    "description": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:\n● Add 1 \"Dark Scorpion\" card from your Deck to your hand.\n● Target 1 \"Dark Scorpion\" card in your Graveyard; add that target to your hand."
+}

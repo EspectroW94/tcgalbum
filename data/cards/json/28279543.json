@@ -1,0 +1,13 @@
+{
+    "id": "28279543",
+    "name": "Curse of Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 2000,
+    "defense": 1500,
+    "valor": 4.3,
+    "description": "A wicked dragon that taps into dark forces to execute a powerful attack."
+}

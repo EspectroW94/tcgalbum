@@ -1,0 +1,13 @@
+{
+    "id": "88819587",
+    "name": "Baby Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1200,
+    "defense": 700,
+    "valor": 2.5,
+    "description": "Much more than just a child, this dragon is gifted with untapped power."
+}

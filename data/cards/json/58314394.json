@@ -1,0 +1,13 @@
+{
+    "id": "58314394",
+    "name": "Ground Attacker Bugroth",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1000,
+    "valor": 3.2,
+    "description": "A surface battle robot that was once used for sea warfare."
+}

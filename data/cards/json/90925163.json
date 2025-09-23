@@ -1,0 +1,13 @@
+{
+    "id": "90925163",
+    "name": "Dancing Fairy",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1000,
+    "valor": 3.4,
+    "description": "As long as this card remains in face-up Defense Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases."
+}

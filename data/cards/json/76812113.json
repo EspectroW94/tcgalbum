@@ -1,0 +1,13 @@
+{
+    "id": "76812113",
+    "name": "Harpie Lady",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1300,
+    "defense": 1400,
+    "valor": 3.4,
+    "description": "This human-shaped animal with wings is beautiful to watch but deadly in battle."
+}

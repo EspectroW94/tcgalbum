@@ -1,0 +1,13 @@
+{
+    "id": "8251996",
+    "name": "Ojama Delta Hurricane!!",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "You can only activate this card while \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" are face-up on your side of the field. Destroy all cards on your opponent's side of the field."
+}

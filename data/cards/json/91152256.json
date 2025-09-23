@@ -1,0 +1,13 @@
+{
+    "id": "91152256",
+    "name": "Celtic Guardian",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1200,
+    "valor": 3.3,
+    "description": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks."
+}

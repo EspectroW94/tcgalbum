@@ -1,0 +1,13 @@
+{
+    "id": "14318794",
+    "name": "Life Absorbing Machine",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn."
+}

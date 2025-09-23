@@ -1,0 +1,13 @@
+{
+    "id": "56387350",
+    "name": "Vampire Baby",
+    "type": "Effect Monster",
+    "sub-type": "Zombie",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 700,
+    "defense": 1000,
+    "valor": 2.3,
+    "description": "At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field."
+}

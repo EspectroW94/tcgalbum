@@ -1,0 +1,13 @@
+{
+    "id": "4178474",
+    "name": "Raigeki Break",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Discard 1 card, then target 1 card on the field; destroy it."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "56789759",
+    "name": "Tyhone #2",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 6,
+    "attack": 1700,
+    "defense": 1900,
+    "valor": 4.5,
+    "description": "A crimson dragon that spits fireballs to create a blazing sea of fire."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "11548522",
+    "name": "Outstanding Dog Marron",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 1,
+    "attack": 100,
+    "defense": 100,
+    "valor": 0.6,
+    "description": "When this card is sent to your Graveyard, add it to your Deck and shuffle it."
+}

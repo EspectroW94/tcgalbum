@@ -1,0 +1,13 @@
+{
+    "id": "3797883",
+    "name": "Slot Machine",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 7,
+    "attack": 2000,
+    "defense": 2300,
+    "valor": 5.3,
+    "description": "The machine's ability is said to vary according to its slot results."
+}

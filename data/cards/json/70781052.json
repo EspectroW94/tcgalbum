@@ -1,0 +1,13 @@
+{
+    "id": "70781052",
+    "name": "Summoned Skull",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 6,
+    "attack": 2500,
+    "defense": 1200,
+    "valor": 4.6,
+    "description": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)"
+}

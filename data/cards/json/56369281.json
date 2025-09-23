@@ -1,0 +1,13 @@
+{
+    "id": "56369281",
+    "name": "Wolf Axwielder",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1650,
+    "defense": 1000,
+    "valor": 3.35,
+    "description": "Once it has started battle, this monster attacks fiercely and cannot stop."
+}

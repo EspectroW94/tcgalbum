@@ -1,0 +1,13 @@
+{
+    "id": "10809984",
+    "name": "Great Phantom Thief",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.6,
+    "description": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent's hand, and if you do, discard all cards with that name in their hand."
+}

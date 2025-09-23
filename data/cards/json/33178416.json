@@ -1,0 +1,13 @@
+{
+    "id": "33178416",
+    "name": "Misairuzame",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1400,
+    "defense": 1600,
+    "valor": 3.8,
+    "description": "A missile-launching fish protected by deadly spikes."
+}

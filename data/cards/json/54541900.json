@@ -1,0 +1,13 @@
+{
+    "id": "54541900",
+    "name": "Karbonala Warrior",
+    "type": "Fusion Monster",
+    "sub-type": "Warrior",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "\"M-Warrior #1\" + \"M-Warrior #2\""
+}

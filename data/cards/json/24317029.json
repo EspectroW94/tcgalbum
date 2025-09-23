@@ -1,0 +1,13 @@
+{
+    "id": "24317029",
+    "name": "Gravekeeper's Spy",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1200,
+    "defense": 2000,
+    "valor": 3.9,
+    "description": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "86281779",
+    "name": "Gadget Soldier",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 6,
+    "attack": 1800,
+    "defense": 2000,
+    "valor": 4.7,
+    "description": "A rust-free machine warrior born to battle."
+}

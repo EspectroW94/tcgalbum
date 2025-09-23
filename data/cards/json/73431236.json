@@ -1,0 +1,13 @@
+{
+    "id": "73431236",
+    "name": "Iron Blacksmith Kotetsu",
+    "type": "Flip Effect Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 2,
+    "attack": 500,
+    "defense": 500,
+    "valor": 1.5,
+    "description": "FLIP: Add 1 Equip Spell from your Deck to your hand."
+}

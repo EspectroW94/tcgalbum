@@ -1,0 +1,13 @@
+{
+    "id": "93346024",
+    "name": "The Dragon Dwelling in the Cave",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1300,
+    "defense": 2000,
+    "valor": 4.0,
+    "description": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures."
+}

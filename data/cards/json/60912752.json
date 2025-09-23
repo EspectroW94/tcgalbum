@@ -1,0 +1,13 @@
+{
+    "id": "60912752",
+    "name": "D.D. Borderline",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When there are no Spell Cards in your Graveyard, neither player can conduct their Battle Phase."
+}

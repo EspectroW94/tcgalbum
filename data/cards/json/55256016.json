@@ -1,0 +1,13 @@
+{
+    "id": "55256016",
+    "name": "Judgment of Anubis",
+    "type": "Trap Card",
+    "sub-type": "Counter",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "When your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster's ATK on the field."
+}

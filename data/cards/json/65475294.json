@@ -1,0 +1,13 @@
+{
+    "id": "65475294",
+    "name": "The Unfriendly Amazon",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 2000,
+    "defense": 1000,
+    "valor": 3.7,
+    "description": "Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "49881766",
+    "name": "Archfiend Soldier",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1900,
+    "defense": 1500,
+    "valor": 4.1,
+    "description": "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done."
+}

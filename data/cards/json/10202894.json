@@ -1,0 +1,13 @@
+{
+    "id": "10202894",
+    "name": "Skull Red Bird",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1550,
+    "defense": 1200,
+    "valor": 3.45,
+    "description": "This monster swoops down and attacks with a rain of knives stored in its wings."
+}

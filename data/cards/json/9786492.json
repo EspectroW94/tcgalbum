@@ -1,0 +1,13 @@
+{
+    "id": "9786492",
+    "name": "White Dragon Ritual",
+    "type": "Spell Card",
+    "sub-type": "Ritual",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "This card is used to Ritual Summon \"Paladin of White Dragon\". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more."
+}

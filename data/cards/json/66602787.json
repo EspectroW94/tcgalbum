@@ -1,0 +1,13 @@
+{
+    "id": "66602787",
+    "name": "Saggi the Dark Clown",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 600,
+    "defense": 1500,
+    "valor": 2.7,
+    "description": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks."
+}

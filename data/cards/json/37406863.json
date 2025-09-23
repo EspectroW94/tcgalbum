@@ -1,0 +1,13 @@
+{
+    "id": "37406863",
+    "name": "Fengsheng Mirror",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Look at your opponent's hand. Select and discard 1 Spirit monster to the Graveyard if Spirit monsters exist in his/her hand."
+}

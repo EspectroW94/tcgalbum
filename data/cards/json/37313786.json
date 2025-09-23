@@ -1,0 +1,13 @@
+{
+    "id": "37313786",
+    "name": "Gamble",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when your opponent's hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn."
+}

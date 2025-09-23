@@ -1,0 +1,13 @@
+{
+    "id": "30606547",
+    "name": "The Dark Door",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Only 1 monster can attack during each Battle Phase."
+}

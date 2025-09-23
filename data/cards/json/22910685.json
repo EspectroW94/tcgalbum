@@ -1,0 +1,13 @@
+{
+    "id": "22910685",
+    "name": "Green Phantom King",
+    "type": "Normal Monster",
+    "sub-type": "Plant",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 500,
+    "defense": 1600,
+    "valor": 2.7,
+    "description": "This youthful king of the forests lives in a green world, abundant with trees and wildlife."
+}

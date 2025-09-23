@@ -1,0 +1,13 @@
+{
+    "id": "57839750",
+    "name": "Mother Grizzly",
+    "type": "Effect Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1000,
+    "valor": 3.1,
+    "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "18036057",
+    "name": "Airknight Parshath",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 5,
+    "attack": 1900,
+    "defense": 1400,
+    "valor": 4.1,
+    "description": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card."
+}

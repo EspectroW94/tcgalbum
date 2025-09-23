@@ -1,0 +1,13 @@
+{
+    "id": "43230671",
+    "name": "Ancient Lizard Warrior",
+    "type": "Normal Monster",
+    "sub-type": "Reptile",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1100,
+    "valor": 3.2,
+    "description": "Before the dawn of man, this lizard warrior ruled supreme."
+}

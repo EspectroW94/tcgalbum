@@ -1,0 +1,13 @@
+{
+    "id": "30325729",
+    "name": "Dokuroyaiba",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": 1000,
+    "defense": 400,
+    "valor": 2.0,
+    "description": "A boomerang with brains that will pursue a target to the ends of the earth."
+}

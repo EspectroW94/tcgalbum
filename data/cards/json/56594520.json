@@ -1,0 +1,13 @@
+{
+    "id": "56594520",
+    "name": "Gaia Power",
+    "type": "Spell Card",
+    "sub-type": "Field",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "All EARTH monsters gain 500 ATK and lose 400 DEF."
+}

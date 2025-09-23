@@ -1,0 +1,13 @@
+{
+    "id": "75356564",
+    "name": "Petit Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 2,
+    "attack": 600,
+    "defense": 700,
+    "valor": 1.8,
+    "description": "A very small dragon known for its vicious attacks."
+}

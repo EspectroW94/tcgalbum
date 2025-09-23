@@ -1,0 +1,13 @@
+{
+    "id": "55784832",
+    "name": "Morinphen",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1550,
+    "defense": 1300,
+    "valor": 3.65,
+    "description": "A strange fiend with long arms and razor-sharp talons."
+}

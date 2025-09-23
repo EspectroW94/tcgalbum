@@ -1,0 +1,13 @@
+{
+    "id": "40453765",
+    "name": "Swamp Battleguard",
+    "type": "Effect Monster",
+    "sub-type": "Warrior",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1500,
+    "valor": 4.1,
+    "description": "This card gains 500 ATK for each \"Lava Battleguard\" you control."
+}

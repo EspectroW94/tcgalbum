@@ -1,0 +1,13 @@
+{
+    "id": "11321183",
+    "name": "Dark Blade",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1500,
+    "valor": 4.0,
+    "description": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power."
+}

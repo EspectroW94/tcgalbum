@@ -1,0 +1,13 @@
+{
+    "id": "15023985",
+    "name": "Stone Ogre Grotto",
+    "type": "Normal Monster",
+    "sub-type": "Rock",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1500,
+    "valor": 3.9,
+    "description": "A behemoth shaped by giant boulders."
+}

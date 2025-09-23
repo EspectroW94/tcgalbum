@@ -1,0 +1,13 @@
+{
+    "id": "4035199",
+    "name": "Shapesnatch",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1200,
+    "defense": 1700,
+    "valor": 3.7,
+    "description": "A bow tie with horrible power, it attacks an opponent by controlling others."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "19066538",
+    "name": "Roaring Ocean Snake",
+    "type": "Fusion Monster",
+    "sub-type": "Aqua",
+    "card": "fusion",
+    "attribute": "WATER",
+    "level": 6,
+    "attack": 2100,
+    "defense": 1800,
+    "valor": 4.8,
+    "description": "\"Mystic Lamp\" + \"Hyosube\""
+}

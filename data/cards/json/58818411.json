@@ -1,0 +1,13 @@
+{
+    "id": "58818411",
+    "name": "Empress Mantis",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 6,
+    "attack": 2200,
+    "defense": 1400,
+    "valor": 4.5,
+    "description": "Queen of an army of giant mantises whose command moves legions."
+}

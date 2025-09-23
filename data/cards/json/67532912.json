@@ -1,0 +1,13 @@
+{
+    "id": "67532912",
+    "name": "Science Soldier",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 800,
+    "defense": 800,
+    "valor": 2.2,
+    "description": "Soldiers equipped with state-of-the-art weaponry to face unknown creatures."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "82732705",
+    "name": "Skill Drain",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated)."
+}

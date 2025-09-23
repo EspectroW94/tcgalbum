@@ -1,0 +1,13 @@
+{
+    "id": "31709826",
+    "name": "Revival Jam",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1500,
+    "defense": 500,
+    "valor": 2.7,
+    "description": "When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase."
+}

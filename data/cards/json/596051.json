@@ -1,0 +1,13 @@
+{
+    "id": "596051",
+    "name": "Snake Fang",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "3493978",
+    "name": "Don Turtle",
+    "type": "Effect Monster",
+    "sub-type": "Reptile",
+    "card": "effect",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 1100,
+    "defense": 1200,
+    "valor": 2.9,
+    "description": "When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of \"Don Turtle\"(s) from your hand."
+}

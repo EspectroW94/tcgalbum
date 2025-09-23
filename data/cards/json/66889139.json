@@ -1,0 +1,13 @@
+{
+    "id": "66889139",
+    "name": "Gaia the Dragon Champion",
+    "type": "Fusion Monster",
+    "sub-type": "Dragon",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 7,
+    "attack": 2600,
+    "defense": 2100,
+    "valor": 5.7,
+    "description": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\""
+}

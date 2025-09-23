@@ -1,0 +1,13 @@
+{
+    "id": "12253117",
+    "name": "World Suppression",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "You can only activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated."
+}

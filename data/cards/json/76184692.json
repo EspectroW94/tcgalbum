@@ -1,0 +1,13 @@
+{
+    "id": "76184692",
+    "name": "Hitotsu-Me Giant",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1200,
+    "defense": 1000,
+    "valor": 2.9,
+    "description": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "20228463",
+    "name": "Ceremonial Bell",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 0,
+    "defense": 1850,
+    "valor": 2.45,
+    "description": "Both players must keep their hands revealed."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "94425169",
+    "name": "Spring of Rebirth",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Increase your Life Points by 500 points every time monsters return from the field to the owner's hand."
+}

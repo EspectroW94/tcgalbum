@@ -1,0 +1,13 @@
+{
+    "id": "80141480",
+    "name": "Hunter Spider",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1600,
+    "defense": 1400,
+    "valor": 3.8,
+    "description": "This monster feeds on whatever it catches in its web."
+}

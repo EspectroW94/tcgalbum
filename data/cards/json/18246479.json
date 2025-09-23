@@ -1,0 +1,13 @@
+{
+    "id": "18246479",
+    "name": "Battle Steer",
+    "type": "Normal Monster",
+    "sub-type": "Beast-Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1300,
+    "valor": 3.9,
+    "description": "A bull monster often found in the woods, it charges enemy monsters with a pair of deadly horns."
+}

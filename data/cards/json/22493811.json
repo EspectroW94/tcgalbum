@@ -1,0 +1,13 @@
+{
+    "id": "22493811",
+    "name": "Multiplication of Ants",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Tribute 1 Insect-Type Monster on your side of the field. Special Summon 2 \"Army Ant Tokens\" (Insect-Type/EARTH/Level 4/ATK 500/DEF 1200) on your side of the field. The tokens cannot be used as a Tribute for a Tribute Summon."
+}

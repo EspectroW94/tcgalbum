@@ -1,0 +1,13 @@
+{
+    "id": "35565537",
+    "name": "Dark Witch",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1700,
+    "valor": 4.3,
+    "description": "A popular creature in mythology that delivers fatal attacks with a sharp spear."
+}

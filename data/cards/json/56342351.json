@@ -1,0 +1,13 @@
+{
+    "id": "56342351",
+    "name": "M-Warrior #1",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1000,
+    "defense": 500,
+    "valor": 2.1,
+    "description": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape."
+}

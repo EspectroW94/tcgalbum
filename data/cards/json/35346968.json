@@ -1,0 +1,13 @@
+{
+    "id": "35346968",
+    "name": "Solemn Wishes",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Increase your Life Points by 500 points each time you draw a card (or cards)."
+}

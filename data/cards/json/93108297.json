@@ -1,0 +1,13 @@
+{
+    "id": "93108297",
+    "name": "Liquid Beast",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 3,
+    "attack": 950,
+    "defense": 800,
+    "valor": 2.35,
+    "description": "A liquid life form that thrives on water."
+}

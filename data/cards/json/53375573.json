@@ -1,0 +1,13 @@
+{
+    "id": "53375573",
+    "name": "Dark King of the Abyss",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1200,
+    "defense": 800,
+    "valor": 2.6,
+    "description": "It's said that this King of the Netherworld once had the power to rule over the dark."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "58528964",
+    "name": "Flame Ghost",
+    "type": "Fusion Monster",
+    "sub-type": "Zombie",
+    "card": "fusion",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 800,
+    "valor": 2.4,
+    "description": "\"Skull Servant\" + \"Dissolverock\""
+}

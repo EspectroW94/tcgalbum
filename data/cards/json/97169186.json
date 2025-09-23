@@ -1,0 +1,13 @@
+{
+    "id": "97169186",
+    "name": "Smashing Ground",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied)."
+}

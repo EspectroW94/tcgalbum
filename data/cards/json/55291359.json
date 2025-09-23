@@ -1,0 +1,13 @@
+{
+    "id": "55291359",
+    "name": "Succubus Knight",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1650,
+    "defense": 1300,
+    "valor": 3.75,
+    "description": "A warrior wizard adept in casting bone-chilling spells."
+}

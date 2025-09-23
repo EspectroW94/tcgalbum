@@ -1,0 +1,13 @@
+{
+    "id": "82542267",
+    "name": "Gravedigger Ghoul",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play."
+}

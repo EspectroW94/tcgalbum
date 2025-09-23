@@ -1,0 +1,13 @@
+{
+    "id": "4042268",
+    "name": "Island Turtle",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1100,
+    "defense": 2000,
+    "valor": 3.8,
+    "description": "A huge turtle that is often mistaken for an island."
+}

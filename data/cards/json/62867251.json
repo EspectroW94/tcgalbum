@@ -1,0 +1,13 @@
+{
+    "id": "62867251",
+    "name": "Light of Intervention",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position."
+}

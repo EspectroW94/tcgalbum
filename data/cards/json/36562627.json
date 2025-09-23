@@ -1,0 +1,13 @@
+{
+    "id": "36562627",
+    "name": "Second Coin Toss",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When a coin toss is performed, you can choose to redo the coin toss. (If the toss involved multiple coin flips, redo all of them.) You can only use the effect of \"Second Coin Toss\" once per turn."
+}

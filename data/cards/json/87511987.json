@@ -1,0 +1,13 @@
+{
+    "id": "87511987",
+    "name": "Spikebot",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1700,
+    "valor": 4.3,
+    "description": "A mechanical soldier created by a wicked sorcerer, it attacks with the two steel balls attached to its arms."
+}

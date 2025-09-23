@@ -1,0 +1,13 @@
+{
+    "id": "42599677",
+    "name": "Flame Champion",
+    "type": "Normal Monster",
+    "sub-type": "Pyro",
+    "card": "normal",
+    "attribute": "FIRE",
+    "level": 5,
+    "attack": 1900,
+    "defense": 1300,
+    "valor": 4.0,
+    "description": "A warrior protected by a flaming shield that nullifies any attack."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "57953380",
+    "name": "Card of Safe Return",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When a monster is Special Summoned from your Graveyard, you can draw 1 card."
+}

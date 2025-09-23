@@ -1,0 +1,13 @@
+{
+    "id": "12206212",
+    "name": "Harpie Lady Sisters",
+    "type": "Effect Monster",
+    "sub-type": "Winged Beast",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 6,
+    "attack": 1950,
+    "defense": 2100,
+    "valor": 4.95,
+    "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\"."
+}

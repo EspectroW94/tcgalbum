@@ -1,0 +1,13 @@
+{
+    "id": "87523462",
+    "name": "Winged Sage Falcos",
+    "type": "Effect Monster",
+    "sub-type": "Winged Beast",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 4,
+    "attack": 1700,
+    "defense": 1200,
+    "valor": 3.6,
+    "description": "When this card destroys an opponent's face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck."
+}

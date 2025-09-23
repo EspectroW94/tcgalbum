@@ -1,0 +1,13 @@
+{
+    "id": "67105242",
+    "name": "Earthbound Spirit",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 500,
+    "defense": 2000,
+    "valor": 3.2,
+    "description": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth."
+}

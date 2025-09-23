@@ -1,0 +1,13 @@
+{
+    "id": "38723936",
+    "name": "Question",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "When activating this card, your opponent cannot check cards in the Graveyard. Your opponent calls the name of the first monster found at the bottom of your Graveyard. If he/she calls it right, the monster is removed from play. If he/she calls it wrong, the monster is Special Summoned to your side of the field."
+}

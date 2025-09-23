@@ -1,0 +1,13 @@
+{
+    "id": "50712728",
+    "name": "Gravekeeper's Curse",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 800,
+    "defense": 800,
+    "valor": 2.2,
+    "description": "If this card is Summoned: Inflict 500 damage to your opponent."
+}

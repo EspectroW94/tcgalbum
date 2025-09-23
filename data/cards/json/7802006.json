@@ -1,0 +1,13 @@
+{
+    "id": "7802006",
+    "name": "Magical Plant Mandragola",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 500,
+    "defense": 200,
+    "valor": 1.2,
+    "description": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on."
+}

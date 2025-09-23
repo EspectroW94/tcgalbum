@@ -1,0 +1,13 @@
+{
+    "id": "93013676",
+    "name": "Maha Vailo",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1550,
+    "defense": 1400,
+    "valor": 3.65,
+    "description": "This card gains 500 ATK for each Equip Card equipped to this card."
+}

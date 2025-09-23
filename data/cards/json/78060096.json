@@ -1,0 +1,13 @@
+{
+    "id": "78060096",
+    "name": "Terrorking Salmon",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 2400,
+    "defense": 1000,
+    "valor": 4.2,
+    "description": "A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness."
+}

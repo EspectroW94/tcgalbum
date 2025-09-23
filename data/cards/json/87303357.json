@@ -1,0 +1,13 @@
+{
+    "id": "87303357",
+    "name": "Shining Abyss",
+    "type": "Normal Monster",
+    "sub-type": "Fairy",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1600,
+    "defense": 1800,
+    "valor": 4.1,
+    "description": "This monster employs the powers of both Light and Darkness."
+}

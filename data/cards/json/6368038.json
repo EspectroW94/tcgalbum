@@ -1,0 +1,13 @@
+{
+    "id": "6368038",
+    "name": "Gaia The Fierce Knight",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2300,
+    "defense": 2100,
+    "valor": 5.4,
+    "description": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with."
+}

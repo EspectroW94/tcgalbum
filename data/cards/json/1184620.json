@@ -1,0 +1,13 @@
+{
+    "id": "1184620",
+    "name": "Kojikocy",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1200,
+    "valor": 3.4,
+    "description": "A man-hunter with powerful arms that can crush boulders."
+}

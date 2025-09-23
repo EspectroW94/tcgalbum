@@ -1,0 +1,13 @@
+{
+    "id": "34442949",
+    "name": "Mechanical Snail",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 800,
+    "defense": 1000,
+    "valor": 2.4,
+    "description": "A cyborg snail that still travels at a slow pace."
+}

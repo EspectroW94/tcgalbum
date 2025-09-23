@@ -1,0 +1,13 @@
+{
+    "id": "38670435",
+    "name": "Black Tyranno",
+    "type": "Effect Monster",
+    "sub-type": "Dinosaur",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 7,
+    "attack": 2600,
+    "defense": 1800,
+    "valor": 5.4,
+    "description": "If the only cards your opponent controls are Defense Position monsters, this card can attack directly."
+}

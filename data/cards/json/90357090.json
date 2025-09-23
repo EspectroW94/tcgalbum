@@ -1,0 +1,13 @@
+{
+    "id": "90357090",
+    "name": "Silver Fang",
+    "type": "Normal Monster",
+    "sub-type": "Beast",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 1200,
+    "defense": 800,
+    "valor": 2.6,
+    "description": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "22959079",
+    "name": "Dimensionhole",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select 1 monster on your side of the field and remove it from play until your next Standby Phase. While the monster is removed from play, the Monster Card Zone of the selected monster cannot be used."
+}

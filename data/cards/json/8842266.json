@@ -1,0 +1,13 @@
+{
+    "id": "8842266",
+    "name": "Poison of the Old Man",
+    "type": "Spell Card",
+    "sub-type": "Quick-Play",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Activate 1 of these effects;\n● Gain 1200 LP.\n● Inflict 800 damage to your opponent."
+}

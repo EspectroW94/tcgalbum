@@ -1,0 +1,13 @@
+{
+    "id": "69954399",
+    "name": "Ekibyo Drakmord",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The equipped monster cannot attack. Destroy the equipped monster at the end of its controller's 2nd turn after this card is activated. At that time, this card is returned to the owner's hand."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "12953226",
+    "name": "Nuvia the Wicked",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 2000,
+    "defense": 800,
+    "valor": 3.5,
+    "description": "If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponents side of the field."
+}

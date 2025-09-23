@@ -1,0 +1,13 @@
+{
+    "id": "84686841",
+    "name": "King Fog",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 900,
+    "valor": 2.5,
+    "description": "A fiend that dwells in a blinding curtain of smoke."
+}

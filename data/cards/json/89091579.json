@@ -1,0 +1,13 @@
+{
+    "id": "89091579",
+    "name": "Basic Insect",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 500,
+    "defense": 700,
+    "valor": 1.7,
+    "description": "Usually found traveling in swarms, this creature's ideal environment is the forest."
+}

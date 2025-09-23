@@ -1,0 +1,13 @@
+{
+    "id": "83764996",
+    "name": "The Illusory Gentleman",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1600,
+    "valor": 3.8,
+    "description": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes."
+}

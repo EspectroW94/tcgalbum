@@ -1,0 +1,13 @@
+{
+    "id": "10992251",
+    "name": "Gradius",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1200,
+    "defense": 800,
+    "valor": 2.7,
+    "description": "A high-performance jet fighter with power capsules for variable attack capabilities."
+}

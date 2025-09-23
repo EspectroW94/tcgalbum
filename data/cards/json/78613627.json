@@ -1,0 +1,13 @@
+{
+    "id": "78613627",
+    "name": "Des Kangaroo",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1700,
+    "valor": 3.9,
+    "description": "If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)"
+}

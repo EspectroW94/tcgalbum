@@ -1,0 +1,13 @@
+{
+    "id": "15025844",
+    "name": "Mystical Elf",
+    "type": "Normal Monster",
+    "sub-type": "Spellcaster",
+    "card": "normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 800,
+    "defense": 2000,
+    "valor": 3.5,
+    "description": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power."
+}

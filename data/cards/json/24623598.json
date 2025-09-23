@@ -1,0 +1,13 @@
+{
+    "id": "24623598",
+    "name": "Disappear",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Remove from play 1 card from your opponent's Graveyard."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "12183332",
+    "name": "Card Shuffle",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Pay 300 Life Points to use this card's effect. Shuffle either your or your opponent's Deck. You can only use this effect during your turn, once per turn."
+}

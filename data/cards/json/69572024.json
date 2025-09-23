@@ -1,0 +1,13 @@
+{
+    "id": "69572024",
+    "name": "Tongyo",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1350,
+    "defense": 800,
+    "valor": 2.85,
+    "description": "This monster captures other fish with its long tongue and sucks the energy out of them."
+}

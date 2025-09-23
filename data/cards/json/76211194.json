@@ -1,0 +1,13 @@
+{
+    "id": "76211194",
+    "name": "Meda Bat",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 800,
+    "defense": 400,
+    "valor": 1.7,
+    "description": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "78780140",
+    "name": "Trent",
+    "type": "Normal Monster",
+    "sub-type": "Plant",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 5,
+    "attack": 1500,
+    "defense": 1800,
+    "valor": 4.1,
+    "description": "A guardian of the woods, this massive tree is believed to be immortal."
+}

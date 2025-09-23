@@ -1,0 +1,13 @@
+{
+    "id": "74367458",
+    "name": "Guardian Elma",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 1300,
+    "defense": 1200,
+    "valor": 3.1,
+    "description": "Cannot be Summoned unless you control a face-up \"Butterfly Dagger - Elma\". When this card is Normal or Special Summoned: You can target 1 appropriate Equip Spell Card in your Graveyard; equip that target to this card."
+}

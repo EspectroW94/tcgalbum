@@ -1,0 +1,13 @@
+{
+    "id": "33064647",
+    "name": "One-Eyed Shield Dragon",
+    "type": "Normal Monster",
+    "sub-type": "Dragon",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 700,
+    "defense": 1300,
+    "valor": 2.6,
+    "description": "This dragon wears a shield not only for its own protection, but also for ramming its enemies."
+}

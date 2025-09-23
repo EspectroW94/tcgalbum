@@ -1,0 +1,13 @@
+{
+    "id": "82108372",
+    "name": "Mudora",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1500,
+    "defense": 1800,
+    "valor": 4.0,
+    "description": "This card gains 200 ATK for each Fairy-Type monster in your Graveyard."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "76862289",
+    "name": "Yamata Dragon",
+    "type": "Spirit Monster",
+    "sub-type": "Dragon",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 7,
+    "attack": 2600,
+    "defense": 3100,
+    "valor": 6.7,
+    "description": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand."
+}

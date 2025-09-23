@@ -1,0 +1,13 @@
+{
+    "id": "26084285",
+    "name": "Gravekeeper's Watcher",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1000,
+    "valor": 2.7,
+    "description": "During either player's turn, when your opponent activates a Spell/Trap Card or monster effect that could make them discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it."
+}

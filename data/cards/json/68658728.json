@@ -1,0 +1,13 @@
+{
+    "id": "68658728",
+    "name": "Little Chimera",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 2,
+    "attack": 600,
+    "defense": 550,
+    "valor": 1.65,
+    "description": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "61705417",
+    "name": "Graverobber",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Select 1 Spell Card from your opponent's Graveyard. You can use it as your hand until the end of the turn. If you use it, you take 2000 points of damage."
+}

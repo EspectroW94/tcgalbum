@@ -1,0 +1,13 @@
+{
+    "id": "33977496",
+    "name": "Thousand Needles",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1000,
+    "defense": 1800,
+    "valor": 3.5,
+    "description": "When this Defense Position card is attacked and if the DEF of this card is higher than the ATK of the attacking monster, destroy the attacking monster at the end of the Damage Step."
+}

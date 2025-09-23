@@ -1,0 +1,13 @@
+{
+    "id": "43434803",
+    "name": "The Shallow Grave",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "1082946",
+    "name": "Pyro Clock of Destiny",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Move the turn count forward by 1 turn. The turn in which this card is activated continues as normal."
+}

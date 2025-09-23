@@ -1,0 +1,13 @@
+{
+    "id": "83258273",
+    "name": "Robbin' Zombie",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY."
+}

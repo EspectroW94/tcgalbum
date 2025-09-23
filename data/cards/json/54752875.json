@@ -1,0 +1,13 @@
+{
+    "id": "54752875",
+    "name": "Twin-Headed Thunder Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Thunder",
+    "card": "fusion",
+    "attribute": "LIGHT",
+    "level": 7,
+    "attack": 2800,
+    "defense": 2100,
+    "valor": 5.9,
+    "description": "\"Thunder Dragon\" + \"Thunder Dragon\""
+}

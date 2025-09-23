@@ -1,0 +1,13 @@
+{
+    "id": "32809211",
+    "name": "Jinzo #7",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 500,
+    "defense": 400,
+    "valor": 1.4,
+    "description": "This monster can attack your opponent's Life Points directly."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "1641882",
+    "name": "Fusionist",
+    "type": "Fusion Monster",
+    "sub-type": "Beast",
+    "card": "fusion",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 900,
+    "defense": 700,
+    "valor": 2.2,
+    "description": "\"Petit Angel\" + \"Mystical Sheep #2\""
+}

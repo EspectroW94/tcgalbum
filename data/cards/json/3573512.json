@@ -1,0 +1,13 @@
+{
+    "id": "3573512",
+    "name": "Swordsman of Landstar",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 500,
+    "defense": 1200,
+    "valor": 2.3,
+    "description": "An amateur with a sword, this fairy warrior relies on its mysterious powers."
+}

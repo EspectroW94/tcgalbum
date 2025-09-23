@@ -1,0 +1,13 @@
+{
+    "id": "37421579",
+    "name": "Charubin the Fire Knight",
+    "type": "Fusion Monster",
+    "sub-type": "Pyro",
+    "card": "fusion",
+    "attribute": "FIRE",
+    "level": 3,
+    "attack": 1100,
+    "defense": 800,
+    "valor": 2.5,
+    "description": "\"Monster Egg\" + \"Hinotama Soul\""
+}

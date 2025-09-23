@@ -1,0 +1,13 @@
+{
+    "id": "70797118",
+    "name": "Thunder Nyan Nyan",
+    "type": "Effect Monster",
+    "sub-type": "Thunder",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1900,
+    "defense": 800,
+    "valor": 3.4,
+    "description": "If there is a non-LIGHT monster on your side of the field, destroy this face-up card."
+}

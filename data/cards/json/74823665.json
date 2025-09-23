@@ -1,0 +1,13 @@
+{
+    "id": "74823665",
+    "name": "Inferno",
+    "type": "Effect Monster",
+    "sub-type": "Pyro",
+    "card": "effect",
+    "attribute": "FIRE",
+    "level": 4,
+    "attack": 1100,
+    "defense": 1900,
+    "valor": 3.7,
+    "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. If this card destroys an opponent's monster by battle and sends it to the GY: Inflict 1500 damage to your opponent."
+}

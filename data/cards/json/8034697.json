@@ -1,0 +1,13 @@
+{
+    "id": "8034697",
+    "name": "Magical Marionette",
+    "type": "Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 5,
+    "attack": 2000,
+    "defense": 1000,
+    "valor": 3.8,
+    "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 200 ATK for each Spell Counter on it. You can remove 2 Spell Counters from this card, then target 1 monster on the field; destroy that target."
+}

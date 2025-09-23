@@ -1,0 +1,13 @@
+{
+    "id": "85742772",
+    "name": "Gravity Bind",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Level 4 or higher monsters cannot attack."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "52097679",
+    "name": "Shield & Sword",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn."
+}

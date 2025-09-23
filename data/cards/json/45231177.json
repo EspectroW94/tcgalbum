@@ -1,0 +1,13 @@
+{
+    "id": "45231177",
+    "name": "Flame Swordsman",
+    "type": "Fusion Monster",
+    "sub-type": "Warrior",
+    "card": "fusion",
+    "attribute": "FIRE",
+    "level": 5,
+    "attack": 1800,
+    "defense": 1600,
+    "valor": 4.2,
+    "description": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\""
+}

@@ -1,0 +1,13 @@
+{
+    "id": "36304921",
+    "name": "Witty Phantom",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1300,
+    "valor": 3.4,
+    "description": "Dressed in a night-black tuxedo, this creature presides over the darkness."
+}

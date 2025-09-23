@@ -1,0 +1,13 @@
+{
+    "id": "68334074",
+    "name": "Miracle Restoring",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Remove 2 Spell Counters from your side of the field, then target 1 \"Dark Magician\" or \"Buster Blader\" in your Graveyard; Special Summon that target."
+}

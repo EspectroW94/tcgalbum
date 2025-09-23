@@ -1,0 +1,13 @@
+{
+    "id": "95956346",
+    "name": "Shining Angel",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1400,
+    "defense": 800,
+    "valor": 2.9,
+    "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position."
+}

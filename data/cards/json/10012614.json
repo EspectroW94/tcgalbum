@@ -1,0 +1,13 @@
+{
+    "id": "10012614",
+    "name": "Banner of Courage",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "All monsters you control gain 200 ATK during your Battle Phase only."
+}

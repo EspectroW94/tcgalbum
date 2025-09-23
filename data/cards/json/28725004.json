@@ -1,0 +1,13 @@
+{
+    "id": "28725004",
+    "name": "Tainted Wisdom",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1250,
+    "defense": 800,
+    "valor": 2.65,
+    "description": "If this Attack Position card is changed to face-up Defense Position: Shuffle your Deck."
+}

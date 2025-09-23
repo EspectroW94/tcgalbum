@@ -1,0 +1,13 @@
+{
+    "id": "91996584",
+    "name": "Whiptail Crow",
+    "type": "Normal Monster",
+    "sub-type": "Fiend",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1650,
+    "defense": 1600,
+    "valor": 3.95,
+    "description": "Attacks from the skies with a whip-like tail."
+}

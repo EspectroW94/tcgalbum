@@ -1,0 +1,13 @@
+{
+    "id": "65570596",
+    "name": "Red Archery Girl",
+    "type": "Normal Monster",
+    "sub-type": "Aqua",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 4,
+    "attack": 1400,
+    "defense": 1500,
+    "valor": 3.6,
+    "description": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike."
+}

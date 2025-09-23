@@ -1,0 +1,13 @@
+{
+    "id": "24140059",
+    "name": "A Cat of Ill Omen",
+    "type": "Flip Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 500,
+    "defense": 300,
+    "valor": 1.3,
+    "description": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead."
+}

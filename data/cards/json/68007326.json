@@ -1,0 +1,13 @@
+{
+    "id": "68007326",
+    "name": "Guardian Angel Joan",
+    "type": "Effect Monster",
+    "sub-type": "Fairy",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 7,
+    "attack": 2800,
+    "defense": 2000,
+    "valor": 5.8,
+    "description": "When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard."
+}

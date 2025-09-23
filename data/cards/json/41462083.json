@@ -1,0 +1,13 @@
+{
+    "id": "41462083",
+    "name": "Thousand Dragon",
+    "type": "Fusion Monster",
+    "sub-type": "Dragon",
+    "card": "fusion",
+    "attribute": "WIND",
+    "level": 7,
+    "attack": 2400,
+    "defense": 2000,
+    "valor": 5.4,
+    "description": "\"Time Wizard\" + \"Baby Dragon\""
+}

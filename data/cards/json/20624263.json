@@ -1,0 +1,13 @@
+{
+    "id": "20624263",
+    "name": "Peacock",
+    "type": "Normal Monster",
+    "sub-type": "Winged Beast",
+    "card": "normal",
+    "attribute": "WIND",
+    "level": 5,
+    "attack": 1700,
+    "defense": 1500,
+    "valor": 4.0,
+    "description": "A large peacock that launches its feathers in a lethal attack."
+}

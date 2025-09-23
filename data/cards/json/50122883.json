@@ -1,0 +1,13 @@
+{
+    "id": "50122883",
+    "name": "Bite Shoes",
+    "type": "Flip Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 500,
+    "defense": 300,
+    "valor": 1.3,
+    "description": "FLIP: Change the battle position of 1 face-up monster on the field."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "46303688",
+    "name": "Roulette Barrel",
+    "type": "Effect Monster",
+    "sub-type": "Machine",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "attack": 1000,
+    "defense": 2000,
+    "valor": 3.7,
+    "description": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "46657337",
+    "name": "Muka Muka",
+    "type": "Effect Monster",
+    "sub-type": "Rock",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 2,
+    "attack": 600,
+    "defense": 300,
+    "valor": 1.4,
+    "description": "This card gains 300 ATK and DEF for each card in your hand."
+}

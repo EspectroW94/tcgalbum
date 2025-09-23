@@ -1,0 +1,13 @@
+{
+    "id": "29549364",
+    "name": "Mask of Restrict",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Neither player can Tribute cards."
+}

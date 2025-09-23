@@ -1,0 +1,13 @@
+{
+    "id": "65830223",
+    "name": "Coffin Seller",
+    "type": "Trap Card",
+    "sub-type": "Continuous",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Each time a monster(s) is sent to your opponent's GY: Inflict 300 damage to your opponent."
+}

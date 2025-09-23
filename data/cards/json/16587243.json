@@ -1,0 +1,13 @@
+{
+    "id": "16587243",
+    "name": "Neo Bug",
+    "type": "Normal Monster",
+    "sub-type": "Insect",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 4,
+    "attack": 1800,
+    "defense": 1700,
+    "valor": 4.2,
+    "description": "A huge bug-like monster said to come from another planet. It gathers in swarms."
+}

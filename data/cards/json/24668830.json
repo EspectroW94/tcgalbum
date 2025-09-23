@@ -1,0 +1,13 @@
+{
+    "id": "24668830",
+    "name": "Germ Infection",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases."
+}

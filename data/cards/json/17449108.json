@@ -1,0 +1,13 @@
+{
+    "id": "17449108",
+    "name": "Nobleman of Extermination",
+    "type": "Spell Card",
+    "sub-type": "Normal",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks."
+}

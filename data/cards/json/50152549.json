@@ -1,0 +1,13 @@
+{
+    "id": "50152549",
+    "name": "Paralyzing Potion",
+    "type": "Spell Card",
+    "sub-type": "Equip",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "A non Machine-Type monster equipped with this card cannot attack."
+}

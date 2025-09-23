@@ -1,0 +1,13 @@
+{
+    "id": "31785398",
+    "name": "Ready for Intercepting",
+    "type": "Trap Card",
+    "sub-type": "Normal",
+    "card": "trap",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 9.0,
+    "description": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position."
+}

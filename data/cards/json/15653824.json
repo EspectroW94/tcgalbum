@@ -1,0 +1,13 @@
+{
+    "id": "15653824",
+    "name": "Skull Knight #2",
+    "type": "Effect Monster",
+    "sub-type": "Fiend",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 3,
+    "attack": 1000,
+    "defense": 1200,
+    "valor": 2.8,
+    "description": "If you Tribute Summon a Fiend-Type monster by Tributing this monster, Special Summon 1 \"Skull Knight #2\" from your Deck. Then shuffle your Deck."
+}

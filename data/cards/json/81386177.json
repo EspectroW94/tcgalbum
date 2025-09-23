@@ -1,0 +1,13 @@
+{
+    "id": "81386177",
+    "name": "Bottom Dweller",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 5,
+    "attack": 1650,
+    "defense": 1700,
+    "valor": 4.15,
+    "description": "This is one sea creature whose wrath is something monsters fear to face."
+}

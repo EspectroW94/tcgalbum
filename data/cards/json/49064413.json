@@ -1,0 +1,13 @@
+{
+    "id": "49064413",
+    "name": "The Masked Beast",
+    "type": "Ritual Monster",
+    "sub-type": "Fiend",
+    "card": "ritual",
+    "attribute": "DARK",
+    "level": 8,
+    "attack": 3200,
+    "defense": 1800,
+    "valor": 6.1,
+    "description": "You can Ritual Summon this card with \"Curse of the Masked Beast\"."
+}

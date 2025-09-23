@@ -1,0 +1,13 @@
+{
+    "id": "76446915",
+    "name": "Disk Magician",
+    "type": "Normal Monster",
+    "sub-type": "Machine",
+    "card": "normal",
+    "attribute": "DARK",
+    "level": 4,
+    "attack": 1350,
+    "defense": 1000,
+    "valor": 3.05,
+    "description": "This monster hides in a saucer and only appears when executing an attack."
+}

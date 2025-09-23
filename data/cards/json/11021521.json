@@ -1,0 +1,13 @@
+{
+    "id": "11021521",
+    "name": "Neko Mane King",
+    "type": "Effect Monster",
+    "sub-type": "Beast",
+    "card": "effect",
+    "attribute": "EARTH",
+    "level": 1,
+    "attack": 0,
+    "defense": 0,
+    "valor": 0.4,
+    "description": "During your opponent's turn, when this card in your possession is sent to your Graveyard by an opponent's card effect: It becomes the End Phase of this turn."
+}

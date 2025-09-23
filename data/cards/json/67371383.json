@@ -1,0 +1,13 @@
+{
+    "id": "67371383",
+    "name": "Amphibian Beast",
+    "type": "Normal Monster",
+    "sub-type": "Fish",
+    "card": "normal",
+    "attribute": "WATER",
+    "level": 6,
+    "attack": 2400,
+    "defense": 2000,
+    "valor": 5.3,
+    "description": "On land or in the sea, the speed of this monster is unmatchable."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "83994646",
+    "name": "4-Starred Ladybug of Doom",
+    "type": "Flip Effect Monster",
+    "sub-type": "Insect",
+    "card": "effect",
+    "attribute": "WIND",
+    "level": 3,
+    "attack": 800,
+    "defense": 1200,
+    "valor": 2.6,
+    "description": "FLIP: Destroy all Level 4 monsters your opponent controls."
+}

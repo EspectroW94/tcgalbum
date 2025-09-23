@@ -1,0 +1,13 @@
+{
+    "id": "85562745",
+    "name": "Dark Room of Nightmare",
+    "type": "Spell Card",
+    "sub-type": "Continuous",
+    "card": "spell",
+    "attribute": "",
+    "level": 0,
+    "attack": 0,
+    "defense": 0,
+    "valor": 10.5,
+    "description": "Each time your opponent takes damage from a card effect, except \"Dark Room of Nightmare\", inflict 300 damage to your opponent."
+}

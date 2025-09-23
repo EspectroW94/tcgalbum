@@ -1,0 +1,13 @@
+{
+    "id": "2792265",
+    "name": "Servant of Catabolism",
+    "type": "Effect Monster",
+    "sub-type": "Aqua",
+    "card": "effect",
+    "attribute": "LIGHT",
+    "level": 3,
+    "attack": 700,
+    "defense": 500,
+    "valor": 1.8,
+    "description": "This monster may attack your opponent's Life Points directly."
+}

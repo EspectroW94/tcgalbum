@@ -1,0 +1,13 @@
+{
+    "id": "75946257",
+    "name": "Witch Doctor of Chaos",
+    "type": "Flip Effect Monster",
+    "sub-type": "Spellcaster",
+    "card": "effect",
+    "attribute": "DARK",
+    "level": 2,
+    "attack": 500,
+    "defense": 500,
+    "valor": 1.5,
+    "description": "FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play."
+}

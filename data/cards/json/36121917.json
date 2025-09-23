@@ -1,0 +1,13 @@
+{
+    "id": "36121917",
+    "name": "Monster Egg",
+    "type": "Normal Monster",
+    "sub-type": "Warrior",
+    "card": "normal",
+    "attribute": "EARTH",
+    "level": 3,
+    "attack": 600,
+    "defense": 900,
+    "valor": 2.1,
+    "description": "A warrior hidden within an egg that attacks enemies by flinging eggshells."
+}
