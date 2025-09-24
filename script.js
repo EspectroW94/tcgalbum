@@ -53,7 +53,7 @@ const renderShop = async () => {
     const packsContainer = shopView.querySelector('.shop-packs');
     const packNames = [
     'pack_00001',
-    //'booster_pack',
+    'pack_00002',
     // Aquí puedes agregar nuevos paquetes fácilmente en una línea separada
     //'gold_pack',
     //'legendary_pack',
