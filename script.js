@@ -1,26 +1,38 @@
 // --- Variables Globales y Estado del Juego ---
-const gameScreen = document.getElementById('game-container');
 const starCountEl = document.getElementById('star-count');
 const cardCountEl = document.getElementById('card-count');
-const totalCardsInGame = 100; 
+let totalCardsInGame = 0; // dinámico según packs listados
 
 let gameState = {
     stars: 100,
-    collection: {}, 
+    collection: {}, // { cardId: count, ... }
 };
 
 // --- Sistema de Guardado ---
 const saveGame = () => {
     localStorage.setItem('yugioh_collection_game', JSON.stringify(gameState));
-    console.log('Juego guardado.');
 };
 
 const loadGame = () => {
     const savedState = localStorage.getItem('yugioh_collection_game');
     if (savedState) {
         gameState = JSON.parse(savedState);
-        console.log('Juego cargado.');
     }
+};
+
+// --- Packs listados MANUALMENTE ---
+const PACK_LIST = ['pack_00001','pack_00002']; // agrega/quita manualmente los packs que deseas en tienda
+
+// --- Calcular total global de cartas según los packs visibles ---
+const calculateTotalCardsInGame = async () => {
+    let total = 0;
+    for (const packName of PACK_LIST) {
+        const packData = await fetchPackData(packName);
+        if (packData && Array.isArray(packData.card_list)) {
+            total += packData.card_list.length;
+        }
+    }
+    totalCardsInGame = total;
 };
 
 // --- Manejo de la Interfaz ---
@@ -28,10 +40,11 @@ const updateUI = () => {
     const roundedStars = gameState.stars.toFixed(2);
     starCountEl.textContent = `Estrellas: ${roundedStars} ⭐`;
     const uniqueCards = Object.keys(gameState.collection).length;
-    cardCountEl.textContent = `Cartas: ${uniqueCards} / ${totalCardsInGame}`;
+    const percentGlobal = totalCardsInGame > 0 ? ((uniqueCards / totalCardsInGame) * 100).toFixed(1) : 0;
+    cardCountEl.textContent = `Cartas: ${uniqueCards} / ${totalCardsInGame} (${percentGlobal}%)`;
 };
 
-// La función principal para cambiar entre vistas
+// --- Vistas ---
 const switchView = (viewId) => {
     document.getElementById('shop-view').style.display = 'none';
     document.getElementById('collection-view').style.display = 'none';
@@ -45,70 +58,12 @@ const switchView = (viewId) => {
     }
 };
 
-// --- Funciones de renderizado de contenido ---
-const renderShop = async () => {
-    const shopView = document.getElementById('shop-view');
-    shopView.innerHTML = '<h2>Tienda de Paquetes</h2><div class="shop-packs"></div>';
-
-    const packsContainer = shopView.querySelector('.shop-packs');
-    const packNames = [
-    'pack_00001',
-    'pack_00002',
-    // Aquí puedes agregar nuevos paquetes fácilmente en una línea separada
-    //'gold_pack',
-    //'legendary_pack',
-	]; 
-
-    for (const packName of packNames) {
-        const packData = await fetchPackData(packName);
-        if (packData) {
-            // Se crea la ruta de la imagen del paquete
-            const imagePath = `data/packs/images/${packName}.jpg`;
-
-            const packCard = document.createElement('div');
-            packCard.className = 'pack-card';
-            packCard.innerHTML = `
-                <img src="${imagePath}" alt="${packData.name}" class="pack-image">
-                <h3>${packData.name}</h3>
-                <p>Costo: ${packData.cost} ⭐</p>
-                <button onclick="buyPack('${packName}', ${packData.cost})">Comprar</button>
-            `;
-            packsContainer.appendChild(packCard);
-        }
-    }
-};
-
-const renderCollection = async () => {
-    const collectionView = document.getElementById('collection-view');
-    collectionView.innerHTML = '<h2>Mi Colección</h2><div class="card-grid"></div>';
-    
-    const cardGrid = collectionView.querySelector('.card-grid');
-    
-    for (const cardId in gameState.collection) {
-        const cardData = await fetchCardData(cardId);
-        
-        const cardItem = document.createElement('div');
-        cardItem.className = 'card-item';
-        const cardCount = gameState.collection[cardId];
-        const isRepeated = cardCount > 1;
-
-        cardItem.innerHTML = `
-            <a href="data/cards/images/${cardId}.jpg" data-lightbox="example-set"><img src="data/cards/images/${cardId}.jpg" alt="Carta ${cardId}"></a>
-            ${cardData.valor !== undefined ? `<span class="card-value">${cardData.valor} ⭐</span>` : ''}
-            ${isRepeated ? `<span class="repeat-count">x${cardCount}</span>` : ''}
-            <button class="sell-button" onclick="sellCard('${cardId}')">Vender</button>
-        `;
-        cardGrid.appendChild(cardItem);
-    }
-};
-
-// --- Lógica del Juego ---
+// --- Fetch datos ---
 const fetchCardData = async (cardId) => {
     try {
         const response = await fetch(`data/cards/json/${cardId}.json`);
         return await response.json();
-    } catch (error) {
-        console.error(`Error al cargar la carta ${cardId}:`, error);
+    } catch {
         return null;
     }
 };
@@ -117,29 +72,334 @@ const fetchPackData = async (packName) => {
     try {
         const response = await fetch(`data/packs/${packName}.json`);
         return await response.json();
-    } catch (error) {
-        console.error(`Error al cargar el paquete ${packName}:`, error);
+    } catch {
         return null;
     }
 };
 
-const buyPack = async (packName, cost) => {
-    if (gameState.stars >= cost) {
-        gameState.stars -= cost;
+// --- Render Tienda ---
+const renderShop = async () => {
+    const shopView = document.getElementById('shop-view');
+    shopView.innerHTML = '<h2>Tienda de Paquetes</h2><div class="shop-packs"></div>';
+
+    const packsContainer = shopView.querySelector('.shop-packs');
+    for (const packName of PACK_LIST) {
         const packData = await fetchPackData(packName);
         if (packData) {
-            openPack(packData);
+            const imagePath = `data/packs/images/${packName}.jpg`;
+
+            const packCard = document.createElement('div');
+            packCard.className = 'pack-card';
+            packCard.innerHTML = `
+                <img src="${imagePath}" alt="${packData.name}" class="pack-image" loading="lazy">
+                <h3>${packData.name}</h3>
+                <p>Costo: ${packData.cost} ⭐</p>
+                <button onclick="previewPack('${packName}', ${packData.cost})">Ver</button>
+            `;
+            packsContainer.appendChild(packCard);
         }
-        updateUI();
-        saveGame();
-    } else {
-        alert('No tienes suficientes estrellas para comprar este paquete.');
     }
 };
 
-const openPack = (packData) => {
+// -----------------------
+// COLLECTION (Infinite Scroll)
+// -----------------------
+const COLLECTION_BATCH_SIZE = 30;
+let collectionIds = [];
+let collectionObserver = null;
+let collectionSentinel = null;
+
+const collectionViewEl = document.getElementById('collection-view');
+
+// Sentinel para scroll
+const ensureSentinel = () => {
+    if (!collectionSentinel) {
+        collectionSentinel = document.createElement('div');
+        collectionSentinel.id = 'collection-sentinel';
+        collectionSentinel.style.width = '100%';
+        collectionSentinel.style.height = '1px';
+    }
+    return collectionSentinel;
+};
+
+const initCollectionObserver = (container, loadMoreCallback) => {
+    if (collectionObserver) {
+        collectionObserver.disconnect();
+        collectionObserver = null;
+    }
+    collectionObserver = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+            if (entry.isIntersecting) {
+                loadMoreCallback();
+            }
+        }
+    }, {
+        root: container,
+        rootMargin: '300px',
+        threshold: 0.1
+    });
+};
+
+const createCardElement = async (cardId) => {
+    const cardData = await fetchCardData(cardId);
+    const cardCount = gameState.collection[cardId] || 0;
+    const cardItem = document.createElement('div');
+    cardItem.className = 'card-item';
+    cardItem.id = `card-item-${cardId}`;
+
+    const valorTag = (cardData && cardData.valor !== undefined) ? `<span class="card-value">${cardData.valor} ⭐</span>` : '';
+    const repeatTag = (cardCount > 1) ? `<span class="repeat-count">x${cardCount}</span>` : '';
+    const imgSrc = `data/cards/images/${cardId}.jpg`;
+
+    cardItem.innerHTML = `
+        <a href="${imgSrc}" data-lightbox="example-set">
+            <img src="${imgSrc}" alt="Carta ${cardId}" loading="lazy">
+        </a>
+        ${valorTag}
+        ${repeatTag}
+        <button class="sell-button" data-cardid="${cardId}">Vender</button>
+    `;
+
+    cardItem.querySelector('.sell-button').addEventListener('click', () => {
+        sellCard(cardId);
+    });
+
+    return cardItem;
+};
+
+const renderCollection = async () => {
+    const collectionView = document.getElementById('collection-view');
+    collectionView.innerHTML = '<h2>Mi Colección</h2><div class="card-grid" id="card-grid"></div>';
+
+    const cardGrid = document.getElementById('card-grid');
+
+    collectionIds = Object.keys(gameState.collection);
+
+    const sentinel = ensureSentinel();
+    cardGrid.appendChild(sentinel);
+
+    initCollectionObserver(cardGrid, async () => {
+        await loadMoreCollectionItems();
+    });
+
+    await loadMoreCollectionItems();
+};
+
+const loadMoreCollectionItems = async () => {
+    const cardGrid = document.getElementById('card-grid');
+    if (!cardGrid) return;
+
+    const alreadyRendered = cardGrid.querySelectorAll('.card-item').length;
+    const nextSlice = collectionIds.slice(alreadyRendered, alreadyRendered + COLLECTION_BATCH_SIZE);
+
+    if (nextSlice.length === 0) {
+        return;
+    }
+
+    for (const cardId of nextSlice) {
+        const el = await createCardElement(cardId);
+        const sentinel = ensureSentinel();
+        if (!cardGrid.contains(sentinel)) {
+            cardGrid.appendChild(sentinel);
+        }
+        cardGrid.insertBefore(el, sentinel);
+    }
+
+    if (collectionObserver && collectionSentinel) {
+        collectionObserver.unobserve(collectionSentinel);
+        collectionObserver.observe(collectionSentinel);
+    }
+};
+
+// --- Venta de cartas ---
+const performSale = async (cardId) => {
+    const cardData = await fetchCardData(cardId);
+    if (!cardData) return;
+
+    gameState.stars += cardData.valor || 0;
+    if (gameState.collection[cardId]) gameState.collection[cardId]--;
+
+    if (gameState.collection[cardId] === 0) {
+        delete gameState.collection[cardId];
+    }
+
+    await calculateTotalCardsInGame();
+    updateUI();
+
+    const node = document.getElementById(`card-item-${cardId}`);
+    if (node) {
+        const newCount = gameState.collection[cardId] || 0;
+        const repeatEl = node.querySelector('.repeat-count');
+        if (newCount > 1) {
+            if (repeatEl) {
+                repeatEl.textContent = `x${newCount}`;
+            } else {
+                const span = document.createElement('span');
+                span.className = 'repeat-count';
+                span.textContent = `x${newCount}`;
+                node.appendChild(span);
+            }
+        } else {
+            if (repeatEl) repeatEl.remove();
+            if (newCount === 0) {
+                node.remove();
+            }
+        }
+    }
+
+    saveGame();
+};
+
+const sellCard = async (cardId) => {
+    if (gameState.collection[cardId] && gameState.collection[cardId] > 0) {
+        if (gameState.collection[cardId] === 1) {
+            const cardData = await fetchCardData(cardId);
+            showConfirmModal(`¿Estás seguro de que deseas vender la única carta de ${cardData.name}?`, () => {
+                performSale(cardId);
+            });
+        } else {
+            performSale(cardId);
+        }
+    } else {
+        alert('No tienes esta carta para vender.');
+    }
+};
+
+// --- Confirm Modal ---
+const confirmModal = document.getElementById('confirm-modal');
+const confirmMessage = document.getElementById('confirm-message');
+const confirmYesBtn = document.getElementById('confirm-yes-btn');
+const confirmNoBtn = document.getElementById('confirm-no-btn');
+
+const showConfirmModal = (message, onConfirm) => {
+    confirmMessage.textContent = message;
+    confirmModal.classList.add('show');
+
+    confirmYesBtn.addEventListener('click', () => {
+        onConfirm();
+        hideConfirmModal();
+    }, { once: true });
+
+    confirmNoBtn.addEventListener('click', () => {
+        hideConfirmModal();
+    }, { once: true });
+};
+
+const hideConfirmModal = () => {
+    confirmModal.classList.remove('show');
+};
+
+// --- Packs: Preview, Comprar, Abrir ---
+const previewPackModal = document.getElementById('preview-pack-modal');
+const previewPackCardGrid = document.getElementById('preview-pack-card-grid');
+const previewBuyBtn = document.getElementById('preview-buy-btn');
+const previewCancelBtn = document.getElementById('preview-cancel-btn');
+const quantityDecreaseBtn = document.getElementById('quantity-decrease');
+const quantityIncreaseBtn = document.getElementById('quantity-increase');
+const previewPackQuantityEl = document.getElementById('preview-pack-quantity');
+const previewPackProgress = document.getElementById('preview-pack-progress');
+
+let currentPreviewPack = null;
+let currentPreviewCost = 0;
+let currentQuantity = 1;
+
+const updateBuyButtonState = () => {
+    const totalCost = currentPreviewCost * currentQuantity;
+    previewBuyBtn.disabled = gameState.stars < totalCost;
+};
+
+const previewPack = async (packName, cost) => {
+    currentPreviewPack = packName;
+    currentPreviewCost = cost;
+    currentQuantity = 1;
+    previewPackQuantityEl.textContent = currentQuantity;
+
+    const packData = await fetchPackData(packName);
+    previewPackCardGrid.innerHTML = '';
+
+    let ownedInThisPack = 0;
+    let totalInPack = 0;
+    if (packData && Array.isArray(packData.card_list)) {
+        totalInPack = packData.card_list.length;
+        for (const cardEntry of packData.card_list) {
+            const cid = cardEntry.card_id;
+            if (gameState.collection[cid]) ownedInThisPack++;
+        }
+    }
+    const percent = totalInPack > 0 ? ((ownedInThisPack / totalInPack) * 100).toFixed(1) : 0;
+    previewPackProgress.textContent = `Tienes ${ownedInThisPack}/${totalInPack} cartas de este paquete (${percent}%)`;
+
+    if (packData && packData.card_list) {
+        for (const cardEntry of packData.card_list) {
+            const cardId = cardEntry.card_id;
+            const cardData = await fetchCardData(cardId);
+            if (!cardData) continue;
+
+            const owned = !!gameState.collection[cardId];
+            const cardItem = document.createElement('div');
+            cardItem.className = 'card-item';
+            cardItem.innerHTML = `
+                <img src="data/cards/images/${cardId}.jpg" alt="${cardData.name}" loading="lazy">
+                <span class="card-drop-rate">${(cardEntry.probability * 100).toFixed(2)}%</span>
+                <span class="card-status ${owned ? 'owned' : 'missing'}">${owned ? '✔' : '✘'}</span>
+            `;
+            previewPackCardGrid.appendChild(cardItem);
+        }
+    }
+
+    updateBuyButtonState();
+    previewPackModal.classList.add('show');
+};
+
+quantityDecreaseBtn.addEventListener('click', () => {
+    if (currentQuantity > 1) {
+        currentQuantity--;
+        previewPackQuantityEl.textContent = currentQuantity;
+        updateBuyButtonState();
+    }
+});
+
+quantityIncreaseBtn.addEventListener('click', () => {
+    currentQuantity++;
+    previewPackQuantityEl.textContent = currentQuantity;
+    updateBuyButtonState();
+});
+
+previewCancelBtn.addEventListener('click', () => {
+    previewPackModal.classList.remove('show');
+});
+
+previewBuyBtn.addEventListener('click', async () => {
+    previewPackModal.classList.remove('show');
+    await buyPack(currentPreviewPack, currentPreviewCost, currentQuantity);
+});
+
+const buyPack = async (packName, cost, quantity = 1) => {
+    const totalCost = cost * quantity;
+    if (gameState.stars >= totalCost) {
+        gameState.stars -= totalCost;
+        const packData = await fetchPackData(packName);
+        if (packData) {
+            const allCardsObtained = {};
+            for (let i = 0; i < quantity; i++) {
+                const cardsObtained = openPack(packData, false);
+                for (const cardId in cardsObtained) {
+                    allCardsObtained[cardId] = (allCardsObtained[cardId] || 0) + cardsObtained[cardId];
+                }
+            }
+            await calculateTotalCardsInGame();
+            updateUI();
+            showOpenPackModal(allCardsObtained, quantity, totalCost);
+            renderCollection(); // refresca colección
+        }
+        saveGame();
+    } else {
+        alert('No tienes suficientes estrellas para comprar esta cantidad de paquetes.');
+    }
+};
+
+const openPack = (packData, showModal = true) => {
     const cardsObtained = {};
-    const cardIds = [];
     for (let i = 0; i < packData.cards_per_pack; i++) {
         let selectedCard = null;
         let randomValue = Math.random();
@@ -153,95 +413,27 @@ const openPack = (packData) => {
             }
         }
         if (selectedCard) {
-            if (cardsObtained[selectedCard]) {
-                cardsObtained[selectedCard]++;
-            } else {
-                cardsObtained[selectedCard] = 1;
-            }
-            if (gameState.collection[selectedCard]) {
-                gameState.collection[selectedCard]++;
-            } else {
-                gameState.collection[selectedCard] = 1;
-            }
+            cardsObtained[selectedCard] = (cardsObtained[selectedCard] || 0) + 1;
+            gameState.collection[selectedCard] = (gameState.collection[selectedCard] || 0) + 1;
         }
     }
-    showOpenPackModal(cardsObtained);
-    updateUI();
-    saveGame();
-};
-
-const performSale = async (cardId) => {
-    const cardData = await fetchCardData(cardId);
-    
-    gameState.stars += cardData.valor;
-    gameState.collection[cardId]--;
-
-    if (gameState.collection[cardId] === 0) {
-        delete gameState.collection[cardId];
+    if (showModal) {
+        showOpenPackModal(cardsObtained, 1, packData.cost || 0);
     }
-    
-    updateUI();
-    renderCollection(); 
-    saveGame();
-};
-
-
-const sellCard = async (cardId) => {
-    if (gameState.collection[cardId] && gameState.collection[cardId] > 0) {
-        // Verificar si es la última carta
-        if (gameState.collection[cardId] === 1) {
-            const cardData = await fetchCardData(cardId);
-            // Mostrar el modal de confirmación
-            showConfirmModal(`¿Estás seguro de que deseas vender la única carta de ${cardData.name}?`, () => {
-                performSale(cardId);
-            });
-        } else {
-            // Si hay más de una, vender directamente
-            performSale(cardId);
-        }
-    } else {
-        alert('No tienes esta carta para vender.');
-    }
-};
-
-// --- Funciones del modal ---
-const confirmModal = document.getElementById('confirm-modal');
-const confirmMessage = document.getElementById('confirm-message');
-const confirmYesBtn = document.getElementById('confirm-yes-btn');
-const confirmNoBtn = document.getElementById('confirm-no-btn');
-
-const showConfirmModal = (message, onConfirm) => {
-    confirmMessage.textContent = message;
-    confirmModal.classList.add('show');
-
-    // Manejadores de eventos de los botones
-    const handleYes = () => {
-        onConfirm();
-        hideConfirmModal();
-    };
-
-    const handleNo = () => {
-        hideConfirmModal();
-    };
-    
-    // Remueve listeners anteriores para evitar múltiples ejecuciones
-    confirmYesBtn.removeEventListener('click', handleYes);
-    confirmNoBtn.removeEventListener('click', handleNo);
-    
-    confirmYesBtn.addEventListener('click', handleYes, { once: true });
-    confirmNoBtn.addEventListener('click', handleNo, { once: true });
-};
-
-const hideConfirmModal = () => {
-    confirmModal.classList.remove('show');
+    return cardsObtained;
 };
 
 const openPackModal = document.getElementById('open-pack-modal');
+const openPackTitle = document.getElementById('open-pack-title');
 const openPackCardGrid = document.getElementById('open-pack-card-grid');
 const openPackOkBtn = document.getElementById('open-pack-ok-btn');
 
-const showOpenPackModal = async (cardsObtained) => {
-    openPackCardGrid.innerHTML = ''; // Limpiar el contenido del modal
+const showOpenPackModal = async (cardsObtained, quantity, totalCost) => {
+    openPackCardGrid.innerHTML = '';
+    openPackTitle.textContent = quantity > 1
+        ? `¡Has abierto ${quantity} paquetes por ${totalCost} ⭐!`
+        : `¡Has abierto un paquete por ${totalCost} ⭐!`;
+
     for (const cardId in cardsObtained) {
         const cardData = await fetchCardData(cardId);
         if (cardData) {
@@ -251,7 +443,7 @@ const showOpenPackModal = async (cardsObtained) => {
             const isRepeated = cardCount > 1;
 
             cardItem.innerHTML = `
-                <img src="data/cards/images/${cardId}.jpg" alt="Carta ${cardData.name}">
+                <img src="data/cards/images/${cardId}.jpg" alt="Carta ${cardData.name}" loading="lazy">
                 ${cardData.valor !== undefined ? `<span class="card-value">${cardData.valor} ⭐</span>` : ''}
                 ${isRepeated ? `<span class="repeat-count">x${cardCount}</span>` : ''}
             `;
@@ -265,7 +457,7 @@ const hideOpenPackModal = () => {
     openPackModal.classList.remove('show');
 };
 
-// --- Funciones de prueba ---
+// --- Reset ---
 const addStars = () => {
     gameState.stars += 100;
     updateUI();
@@ -277,10 +469,12 @@ const resetGame = () => {
     gameState.collection = {};
     updateUI();
     saveGame();
-    switchView('collection');
+    if (document.getElementById('collection-view').style.display !== 'none') {
+        renderCollection();
+    }
 };
 
-// --- Eventos y Inicialización ---
+// --- Eventos ---
 document.getElementById('show-collection-btn').addEventListener('click', () => switchView('collection'));
 document.getElementById('show-shop-btn').addEventListener('click', () => switchView('shop'));
 
@@ -288,8 +482,9 @@ document.getElementById('add-stars-btn').addEventListener('click', addStars);
 document.getElementById('reset-game-btn').addEventListener('click', resetGame);
 openPackOkBtn.addEventListener('click', hideOpenPackModal);
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     loadGame();
+    await calculateTotalCardsInGame();
     updateUI();
-    switchView('collection'); // CAMBIADO de 'shop' a 'collection'
+    switchView('collection');
 });
