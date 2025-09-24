@@ -91,7 +91,6 @@ header {
     min-height: 500px;
 }
 
-/* Estilos para la tienda */
 .shop-view {
     display: none;
     text-align: center;
@@ -115,7 +114,7 @@ header {
 }
 
 .pack-card .pack-image {
-	width: 100%;
+    width: 100%;
     object-fit: contain;
     border-radius: 5px;
 }
@@ -135,7 +134,6 @@ header {
     background-color: #1e87e7;
 }
 
-/* Estilos para el álbum */
 .collection-view {
     display: none;
     text-align: center;
@@ -196,14 +194,12 @@ header {
     font-weight: bold;
 }
 
-/* Estilos para el botón de venta */
 .sell-button {
     position: absolute;
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
-    
     background-color: #4CAF50;
     color: white;
     padding: 8px 12px;
@@ -218,10 +214,9 @@ header {
     background-color: #45a049;
 }
 
-/* Estilos del modal de confirmación */
 .modal-container {
-    display: none; /* Oculto por defecto */
-    position: fixed; 
+    display: none;
+    position: fixed;
     z-index: 10;
     left: 0;
     top: 0;
@@ -233,7 +228,7 @@ header {
 }
 
 .modal-container.show {
-    display: flex; /* Mostrar cuando se le agregue la clase 'show' */
+    display: flex;
 }
 
 .modal-content {
@@ -245,7 +240,6 @@ header {
     width: 90%;
     max-width: 400px;
     max-height: 500px;
-    /* Agregado para que el contenido sea desplazable */
     overflow-y: auto;
 }
 
@@ -265,7 +259,7 @@ header {
 }
 
 #confirm-yes-btn {
-    background-color: #4CAF50; /* Verde */
+    background-color: #4CAF50;
     color: white;
 }
 
@@ -274,7 +268,7 @@ header {
 }
 
 #confirm-no-btn {
-    background-color: #f44336; /* Rojo */
+    background-color: #f44336;
     color: white;
 }
 
@@ -282,9 +276,8 @@ header {
     background-color: #da190b;
 }
 
-/* Estilos del botón de OK en el nuevo modal */
 .modal-ok-btn {
-    background-color: #4CAF50; /* Verde */
+    background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -309,7 +302,6 @@ p{
     margin-bottom: 0px;
 }
 
-/* Estilos de la cuadrícula de cartas del modal */
 #open-pack-card-grid {
     display: flex;
     flex-wrap: wrap;
@@ -324,11 +316,18 @@ p{
         padding: 15px;
     }
 
+    /* --- CAMBIOS APLICADOS AQUÍ --- */
+    #open-pack-card-grid {
+        justify-content: space-around; /* Distribuir el espacio para que las cartas no se peguen */
+        gap: 10px;
+    }
+
     .pack-card {
         width: 120px;
     }
-    
+
     .card-item {
-        width: 10px;
+        /* Aumentar el tamaño de las cartas para que sean legibles */
+        width: 100px; 
     }
 }
