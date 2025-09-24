@@ -20,8 +20,23 @@ const loadGame = () => {
     }
 };
 
+
 // --- Packs listados MANUALMENTE ---
-const PACK_LIST = ['pack_00001','pack_00002']; // agrega/quita manualmente los packs que deseas en tienda
+const PACK_LIST = [
+    'pack_00001',
+    'pack_00002',
+    'pack_00003',
+    'pack_00004',
+    'pack_00005',
+    'pack_00006',
+    'pack_00007',
+    'pack_00008',
+    'pack_00009',
+    'pack_00010',
+    'pack_00011',
+    // agrega/quita manualmente los packs que desees en tienda
+];
+
 
 // --- Calcular total global de cartas según los packs visibles ---
 const calculateTotalCardsInGame = async () => {
@@ -91,7 +106,11 @@ const renderShop = async () => {
             const packCard = document.createElement('div');
             packCard.className = 'pack-card';
             packCard.innerHTML = `
-                <img src="${imagePath}" alt="${packData.name}" class="pack-image" loading="lazy">
+                <img src="${imagePath}" 
+                     alt="${packData.name}" 
+                     class="pack-image" 
+                     loading="lazy"
+                     onerror="this.onerror=null; this.src='data/packs/images/pack_00000.jpg';">
                 <h3>${packData.name}</h3>
                 <p>Costo: ${packData.cost} ⭐</p>
                 <button onclick="previewPack('${packName}', ${packData.cost})">Ver</button>
@@ -100,6 +119,7 @@ const renderShop = async () => {
         }
     }
 };
+
 
 // -----------------------
 // COLLECTION (Infinite Scroll)

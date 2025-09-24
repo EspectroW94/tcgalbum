@@ -1,0 +1,407 @@
+{
+    "name": "Pack 10",
+    "cost": 100,
+    "cards_per_pack": 5,
+    "card_list": [
+        {
+            "card_id": "78861134",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "78984772",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "79106360",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "79182538",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "79323590",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "79335209",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "79575620",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "79759861",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "79870141",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "80071763",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "80141480",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "80163754",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "80168720",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "80193355",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "80233946",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "80441106",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "80741828",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "80770678",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "80811661",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81172176",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81210420",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81325903",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81380218",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81385346",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81386177",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "81480461",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "81777047",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "81863068",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "81985784",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "82003859",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "82108372",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "82301904",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "82432018",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "82529174",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "82542267",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "82642348",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "82732705",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "82999629",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83011278",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "83133491",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83225447",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83241722",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83258273",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83464209",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "83555666",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83746708",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83764719",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83764996",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "83887306",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83968380",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "83986578",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "83994646",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84080939",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84620194",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "84636823",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84686841",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "84696266",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "84740193",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "84814897",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84834865",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84926738",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "84970821",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "85309439",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "85326399",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "85359414",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "85489096",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "85562745",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "85605684",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "85639257",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "85684223",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "85705804",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "85742772",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "85802526",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "85936485",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "86088138",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "86099788",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "86198326",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "86281779",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "86318356",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "86327225",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "86498013",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "86569121",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "86801871",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "87303357",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "87322377",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "87430998",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "87511987",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "87523462",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "87564352",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "87756343",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "87796900",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "87880531",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "88132637",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "88240808",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "88279736",
+            "probability": 0.000758
+        },
+        {
+            "card_id": "88472456",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "88733579",
+            "probability": 0.003788
+        },
+        {
+            "card_id": "88819587",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "88979991",
+            "probability": 0.030303
+        },
+        {
+            "card_id": "88989706",
+            "probability": 0.003788
+        }
+    ]
+}
